@@ -8,7 +8,80 @@ http://multistream2.dodear.com/pk-8xm/index.m3u8
 http://multistream2.dodear.com:80/pk-92newshd/index.m3u8?token=MLqiMDm7V1
 #EXTINF:-1,---- A Plus ----
 http://multistream2.dodear.com:80/pk-aplus/index.m3u8   
+#EXTINF:-1,---- AXN HD ----
+http://multistream2.dodear.com:80/pk-axnpakistan/index.m3u8  
+#EXTINF:-1,---- Aaj Entertainment ----
+http://multistream2.dodear.com:80/pk-aajentertainment/index.m3u8 
+#EXTINF:-1,---- Aaj News ----
+http://multistream2.dodear.com:80/pk-aajnews/index.m3u8 
+#EXTINF:-1,---- Animal Planet HD ----
+http://multistream2.dodear.com:80/pk-animalplanet/index.m3u8 
+#EXTINF:-1,---- Boomerange ----
+http://multistream2.dodear.com:80/ukkids-boomerang/index.m3u8   
+#EXTINF:-1,---- Baby TV ----
+http://multistream2.dodear.com:80/ukkids-babytv/index.m3u8  
+#EXTINF:-1,---- BOL Entertainment HD ----
+http://multistream2.dodear.com:80/pk-bolentertainmenthd/index.m3u8   
+#EXTINF:-1,---- BOL News ----
+http://multistream2.dodear.com:80/pk-bolnewsuhd/index.m3u8 
+#EXTINF:-1,---- BOX Nation ----
+http://multistream2.dodear.com:80/uksports-boxnation/index.m3u8   
+#EXTINF:-1,---- Cartoon Network ----
+http://multistream2.dodear.com:80/pk-cartoonnetwork/index.m3u8   
+#EXTINF:-1,---- Discovery Channel ----
+http://multistream2.dodear.com:80/ukdocumentry-discoveryhd/index.m3u8
+#EXTINF:-1,---- Disney Channel ----
+http://multistream2.dodear.com:80/ukkids-disneyjunior/index.m3u8   
+#EXTINF:-1,---- Disney XD ----
+http://multistream2.dodear.com:80/ukkids-disneyxd/index.m3u8
+#EXTINF:-1,---- FilmWOrld ----
+http://multistream2.dodear.com:80/pk-filmworld/index.m3u8
+#EXTINF:-1,---- Filmax ----
+http://multistream2.dodear.com:80/pk-filmmax/index.m3u8 
+#EXTINF:-1,---- FILMAZIA ----
+http://multistream2.dodear.com:80/pk-LTN-FAMILY/index.m3u8 
+#EXTINF:-1,---- FOX ACTION MOVIES ----
+http://multistream2.dodear.com:80/arabic-foxmoviesaction/index.m3u8  
+#EXTINF:-1,---- FOX CRIME ----
+http://multistream.dodear.com:8081/live/foxcrime.stream/playlist.m3u8  
+#EXTINF:-1,---- HBO ----
+http://multistream.dodear.com:8081/live/hbo.stream/playlist.m3u8 
+#EXTINF:-1,---- Horror Movies Channel ----
+http://multistream2.dodear.com:80/ukmovies-horrorchannel/index.m3u8  
+#EXTINF:-1,---- LifeTime Movies ----
+http://multistream2.dodear.com:80/ukentertainment-lifetime/index.m3u8   
+#EXTINF:-1,---- MCB 2 ----
+http://multistream.dodear.com:8081/live/mbc2.stream/playlist.m3u8  
+#EXTINF:-1,---- MCB Action ----
+http://multistream.dodear.com:8081/live/mbca.stream/playlist.m3u8   
+#EXTINF:-1,---- MCB Movie MAX ----
+http://multistream.dodear.com:8081/live/mbca.stream/playlist.m3u8   
+#EXTINF:-1,---- METRO NEWS ----
+http://multistream2.dodear.com:80/pk-metro1/index.m3u8 
+#EXTINF:-1,---- MOVIE ACTION ----
+http://multistream2.dodear.com:80/pk-metro1/index.m3u8 
+#EXTINF:-1,---- NAT GEO WILD ----
+http://multistream.dodear.com:8081/live/wild.stream/playlist.m3u8 
+#EXTINF:-1,---- National Geographic ----
+http://multistream.dodear.com:8081/live/natgeo.stream/playlist.m3u8
+#EXTINF:-1,---- NICKELODEON ----
+http://multistream2.dodear.com:80/pk-nick/index.m3u8 
+#EXTINF:-1,---- OXYGEN ----
+http://multistream2.dodear.com:80/pk-oxygen/index.m3u8  
+#EXTINF:-1,---- SKY DISNEY ----
+http://multistream2.dodear.com:80/ukmovies-skydisney/index.m3u8
+#EXTINF:-1,---- SKY MIX HD (SPORTS) ----
+http://multistream2.dodear.com:80/uksports-skyspmixhd/index.m3u8 
+#EXTINF:-1,---- SKY SELECT HD ----
+http://multistream2.dodear.com:80/ukmovies-skyselect/index.m3u8 
+#EXTINF:-1,---- TENSPORTS ----
+http://multistream.dodear.com:8081/live/tensports.stream/playlist.m3u8
+#EXTINF:-1,---- URDU 1 ----
+http://multistream2.dodear.com:80/pk-urdu1/index.m3u8
 #EXTINF:-1,---- Channel 24HD ----
 #EXTINF:-1,---- Channel 24HD ----
 #EXTINF:-1,---- Channel 24HD ----
-#EXTINF:-1,---- Channel 24HD ----
+
+
+
+
