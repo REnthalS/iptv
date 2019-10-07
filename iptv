@@ -1,0 +1,14 @@
+#EXTINF:-1,---- SkySelect HD ----
+http://multistream2.dodear.com:80/ukmovies-skyselect/index.m3u8
+#EXTINF:-1,---- Channel 24HD ----
+http://multistream2.dodear.com:8080/pk-channel24hd/index.m3u8 
+#EXTINF:-1,---- 8xm Pak HD ----
+http://multistream2.dodear.com/pk-8xm/index.m3u8 
+#EXTINF:-1,---- 92News HD ----
+http://multistream2.dodear.com:80/pk-92newshd/index.m3u8?token=MLqiMDm7V1
+#EXTINF:-1,---- A Plus ----
+http://multistream2.dodear.com:80/pk-aplus/index.m3u8   
+#EXTINF:-1,---- Channel 24HD ----
+#EXTINF:-1,---- Channel 24HD ----
+#EXTINF:-1,---- Channel 24HD ----
+#EXTINF:-1,---- Channel 24HD ----
