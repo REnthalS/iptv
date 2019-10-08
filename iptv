@@ -82,7 +82,8 @@ http://multistream2.dodear.com:80/pk-urdu1/index.m3u8
 https://57a1b3b8b4855.streamlock.net/live/housefulmovie_webA.sdp/playlist.m3u8?token=3588295941
 #EXTINF:-1,---- WOW CINEMA ----
 https://57a1bb14d0f06.streamlock.net/live/wowcinema_webA.sdp/playlist.m3u8?token=3588295941
-#EXTINF:-1,---- Channel 24HD ----
+#EXTINF:-1,---- K FOR KISHORE (SONGS) ----
+https://57a1bb14d0f06.streamlock.net/live/kishore_webA.sdp/playlist.m3u8?token=1030509405
 #EXTINF:-1,---- Channel 24HD ----
 #EXTINF:-1,---- Channel 24HD ----
 #EXTINF:-1,---- Channel 24HD ----
