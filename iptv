@@ -86,7 +86,8 @@ https://57a1bb14d0f06.streamlock.net/live/wowcinema_webA.sdp/playlist.m3u8?token
 https://57a1bb14d0f06.streamlock.net/live/kishore_webA.sdp/playlist.m3u8?token=1030509405
 #EXTINF:-1,---- BEIN MOVIES ----
 http://multistream2.dodear.com:80/beinmovies1/index.m3u8 
-#EXTINF:-1,---- Channel 24HD ----
+#EXTINF:-1,---- GEO ENTERTAINMENT ----
+http://multistream2.dodear.com:80/pk-geoentertainment/index.m3u8 
 #EXTINF:-1,---- Channel 24HD ----
 #EXTINF:-1,---- Channel 24HD ----
 #EXTINF:-1,---- Channel 24HD ----
