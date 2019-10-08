@@ -88,6 +88,18 @@ https://57a1bb14d0f06.streamlock.net/live/kishore_webA.sdp/playlist.m3u8?token=1
 http://multistream2.dodear.com:80/beinmovies1/index.m3u8 
 #EXTINF:-1,---- GEO ENTERTAINMENT ----
 http://multistream2.dodear.com:80/pk-geoentertainment/index.m3u8 
+#EXTINF:-1,---- MASALA TV ----
+http://multistream2.dodear.com:80/pk-masala/index.m3u8 
+#EXTINF:-1,---- NEO NEWS HD ----
+http://multistream2.dodear.com:80/pk-neonewshd/index.m3u8
+#EXTINF:-1,---- SAMAA TV ----
+http://multistream2.dodear.com:80/pk-samaanews/index.m3u8
+#EXTINF:-1,---- Channel 24HD ----
+#EXTINF:-1,---- Channel 24HD ----
+#EXTINF:-1,---- Channel 24HD ----
+#EXTINF:-1,---- Channel 24HD ----
+#EXTINF:-1,---- Channel 24HD ----
+#EXTINF:-1,---- Channel 24HD ----
 #EXTINF:-1,---- Channel 24HD ----
 #EXTINF:-1,---- Channel 24HD ----
 #EXTINF:-1,---- Channel 24HD ----
