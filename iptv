@@ -59,7 +59,7 @@ http://multistream.dodear.com:8081/live/mbca.stream/playlist.m3u8
 #EXTINF:-1,---- METRO NEWS ----
 http://multistream2.dodear.com:80/pk-metro1/index.m3u8 
 #EXTINF:-1,---- MOVIE ACTION ----
-http://multistream2.dodear.com:80/pk-metro1/index.m3u8 
+http://multistream2.dodear.com:80/ukmovies-skyaction/index.m3u8 
 #EXTINF:-1,---- NAT GEO WILD ----
 http://multistream.dodear.com:8081/live/wild.stream/playlist.m3u8 
 #EXTINF:-1,---- National Geographic ----
@@ -78,8 +78,8 @@ http://multistream2.dodear.com:80/ukmovies-skyselect/index.m3u8
 http://multistream.dodear.com:8081/live/tensports.stream/playlist.m3u8
 #EXTINF:-1,---- URDU 1 ----
 http://multistream2.dodear.com:80/pk-urdu1/index.m3u8
-#EXTINF:-1,---- 9XM ----
-http://212.8.253.141:7071/ind2019/9xmusic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDE5IDEyOjQxOjM0IFBNJmhhc2hfdmFsdWU9MlJWL2hxWGJMcW5rWFVlQ1RvSGQ0Zz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,---- HouseFull Movies ----
+https://57a1b3b8b4855.streamlock.net/live/housefulmovie_webA.sdp/playlist.m3u8?token=3588295941
 #EXTINF:-1,---- Channel 24HD ----
 #EXTINF:-1,---- Channel 24HD ----
 
