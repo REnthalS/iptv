@@ -94,7 +94,8 @@ http://multistream2.dodear.com:80/pk-masala/index.m3u8
 http://multistream2.dodear.com:80/pk-neonewshd/index.m3u8
 #EXTINF:-1,---- SAMAA TV ----
 http://multistream2.dodear.com:80/pk-samaanews/index.m3u8
-#EXTINF:-1,---- Channel 24HD ----
+#EXTINF:-2,---- JARHEAD LAW OF RETURN (FULL MOVIE) ----
+http://english.dodear.com/movies/english/j/JarheadLawOfReturn.2019/JarheadLawOfReturn.2019.BRRip.mkv
 #EXTINF:-1,---- Channel 24HD ----
 #EXTINF:-1,---- Channel 24HD ----
 #EXTINF:-1,---- Channel 24HD ----
