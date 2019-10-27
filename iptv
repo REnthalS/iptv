@@ -96,11 +96,16 @@ http://multistream2.dodear.com:80/pk-neonewshd/index.m3u8
 http://multistream2.dodear.com:80/pk-samaanews/index.m3u8
 #EXTINF:-2,---- TRANSFORMERS THE REVENGE OF THE FALLEN (FULL MOVIE) ----
 http://english.dodear.com/movies/english/t/Transformers.2.RevengeoftheFallen.2009/Transformers.2.RevengeoftheFallen.2009.BRRip.Dual.mkv
-#EXTINF:-1,---- Channel 24HD ----
-#EXTINF:-1,---- Channel 24HD ----
-#EXTINF:-1,---- Channel 24HD ----
-#EXTINF:-1,---- Channel 24HD ----
-#EXTINF:-1,---- Channel 24HD ----
+#EXTINF:-1,---- CARS 1 ----
+http://anime.movies.dodear.com/c/Cars.1.2006/Cars.1.2006.Dual.mkv
+#EXTINF:-1,---- CARS 2 ----
+http://anime.movies.dodear.com/c/Cars.2.2011/Cars.2.2011.BRRip.Dual.mkv
+#EXTINF:-1,---- CARS 3 ----
+http://anime.movies.dodear.com/c/Cars.3.2017/Cars.3.2017.BRRip.Dual.mkv
+#EXTINF:-1,---- KOI MILL GAYA ----
+http://urdu.movies.dodear.com/movies/urdu/k/Koi...MilGaya2003/Koi...MilGaya2003.mkv
+#EXTINF:-1,---- Baby BOSS ----
+http://anime.movies.dodear.com/t/TheBossBaby.2017/TheBossBaby.2017.BRRip.Dual.mkv
 #EXTINF:-1,---- Channel 24HD ----
 #EXTINF:-1,---- Channel 24HD ----
 #EXTINF:-1,---- Channel 24HD ----
