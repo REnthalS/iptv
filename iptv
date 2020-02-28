@@ -14,7 +14,7 @@ http://multistream2.dodear.com/pk-apptvhd/tracks-v1a1/mono.m3u8
 http://multistream2.dodear.com:80/pk-aajentertainment/index.m3u8 
 #EXTINF:-1,---- Aaj News ----
 http://multistream2.dodear.com:80/pk-aajnews/index.m3u8 
-#EXTINF:-1,---- Animal Planet HD ----
+#EXTINF:-1,---- KTN ----
 http://multistream2.dodear.com:80/pk-animalplanet/index.m3u8 
 #EXTINF:-1,---- Boomerange ----
 http://multistream2.dodear.com:80/ukkids-boomerang/index.m3u8   
