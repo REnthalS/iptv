@@ -1,4 +1,4 @@
-#EXTINF:-1,---- SkySelect HD ----
+#EXTINF:-1,---- Select HD ----
 http://multistream2.dodear.com:80/ukmovies-skyselect/index.m3u8
 #EXTINF:-1,---- Channel 24HD ----
 http://multistream2.dodear.com:8080/pk-channel24hd/index.m3u8 
@@ -8,8 +8,8 @@ http://multistream2.dodear.com/pk-8xm/index.m3u8
 http://multistream2.dodear.com:80/pk-92newshd/index.m3u8?token=MLqiMDm7V1
 #EXTINF:-1,---- A Plus ----
 http://multistream2.dodear.com:80/pk-aplus/index.m3u8   
-#EXTINF:-1,---- AXN HD ----
-http://multistream2.dodear.com:80/pk-axnpakistan/index.m3u8  
+#EXTINF:-1,---- AAP NEWS ----
+http://multistream2.dodear.com/pk-apptvhd/tracks-v1a1/mono.m3u8 
 #EXTINF:-1,---- Aaj Entertainment ----
 http://multistream2.dodear.com:80/pk-aajentertainment/index.m3u8 
 #EXTINF:-1,---- Aaj News ----
@@ -94,6 +94,64 @@ http://multistream2.dodear.com:80/pk-masala/index.m3u8
 http://multistream2.dodear.com:80/pk-neonewshd/index.m3u8
 #EXTINF:-1,---- SAMAA TV ----
 http://multistream2.dodear.com:80/pk-samaanews/index.m3u8
+#EXTINF:-1,---- AL-MADINA LIVE ----
+http://multistream.dodear.com:8081/live/madina.stream/chunklist_w1295574937.m3u8
+#EXTINF:-1,---- AL-MAKKAH LIVE ----
+http://multistream.dodear.com:8081/live/makkah.stream/chunklist_w2094526315.m3u8
+#EXTINF:-1,---- APNA TV ----
+http://multistream2.dodear.com/pk-apnachannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1,---- ARY DIGITAL ----
+http://multistream2.dodear.com/pk-arydigital/tracks-v1a1/mono.m3u8
+#EXTINF:-1,---- ARY NEWS ----
+http://multistream2.dodear.com/pk-arynews/tracks-v1a1/mono.m3u8
+#EXTINF:-1,---- ARY ZINDAGI ----
+http://multistream2.dodear.com/pk-aryzindagi/tracks-v1a1/mono.m3u8
+#EXTINF:-1,---- BBC NEWS ENGLISH ----
+http://multistream.dodear.com:8081/live/bbc.stream/chunklist_w1629221057.m3u8
+#EXTINF:-1,---- BBC FOUR UK ----
+http://multistream2.dodear.com/uk-bbcfour/tracks-v1a1/mono.m3u8
+#EXTINF:-1,---- CNN ----
+http://multistream.dodear.com:8081/live/cnn.stream/chunklist_w1522520861.m3u8
+#EXTINF:-1,---- DAWN NEWS ----
+http://multistream.dodear.com:8081/live/cnn.stream/chunklist_w1522520861.m3u8
+#EXTINF:-1,---- DUNIYA NEWS ----
+http://multistream2.dodear.com/pk-dunyanews/tracks-v1a1/mono.m3u8
+#EXTINF:-1,---- EXPRESS ENTERTAINMENT ----
+http://multistream2.dodear.com/pk-dunyanews/tracks-v1a1/mono.m3u8
+#EXTINF:-1,---- EXPRESS NEWS ----
+http://multistream2.dodear.com/pk-expressnews/tracks-v1a1/mono.m3u8
+#EXTINF:-1,---- GEO ENTERTAINMENT ----
+http://multistream2.dodear.com/pk-geoentertainment/tracks-v1a1/mono.m3u8
+#EXTINF:-1,---- GEO KAHANI ----
+http://multistream2.dodear.com/pk-geokahani/tracks-v1a1/mono.m3u8
+#EXTINF:-1,---- GEO NEWS ----
+http://multistream2.dodear.com/pk-geonews/tracks-v1a1/mono.m3u8
+#EXTINF:-1,---- GEO SUPER ----
+http://multistream.dodear.com:8081/live/geosuper.stream/chunklist_w299489837.m3u8
+#EXTINF:-1,---- GEO TEZZ ----
+http://multistream2.dodear.com/pk-geotezz/tracks-v1a1/mono.m3u8
+#EXTINF:-1,---- GNN NEWS ----
+http://multistream2.dodear.com/pk-gnnhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,---- HUM NEWS ----
+http://multistream2.dodear.com/pk-humnewshd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,---- HUM TV ----
+http://multistream2.dodear.com/pk-humtvhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,---- JALWA TV ----
+http://multistream2.dodear.com/pk-jalwa/tracks-v1a1/mono.m3u8
+#EXTINF:-1,---- PLAY TV ----
+http://multistream2.dodear.com/pk-playtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,---- PTV SPORTS LIVE ----
+http://multistream.dodear.com:8081/live/ptvsports.stream/chunklist_w509833142.m3u8
+#EXTINF:-1,---- PUBLIC NEWS ----
+http://multistream2.dodear.com/pk-publicnewshd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,---- SACH TV ----
+http://multistream2.dodear.com/pk-suchnews/tracks-v1a1/mono.m3u8
+#EXTINF:-1,---- TEN SPORTS ----
+http://multistream.dodear.com:8081/live/tensports.stream/chunklist_w389500264.m3u8
+#EXTINF:-1,---- Channel 24HD ----
+#EXTINF:-1,---- Channel 24HD ----
+#EXTINF:-1,---- Channel 24HD ----
+#EXTINF:-1,---- Channel 24HD ----
 #EXTINF:-2,---- TRANSFORMERS THE REVENGE OF THE FALLEN (FULL MOVIE) ----
 http://english.dodear.com/movies/english/t/Transformers.2.RevengeoftheFallen.2009/Transformers.2.RevengeoftheFallen.2009.BRRip.Dual.mkv
 #EXTINF:-1,---- CARS 1 ----
