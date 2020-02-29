@@ -1,168 +1,168 @@
-#EXTINF:-1,---- Select HD ----
+#EXTINF:-1,Sky Select HD
 http://multistream2.dodear.com:80/ukmovies-skyselect/index.m3u8
-#EXTINF:-1,---- Channel 24HD ----
+#EXTINF:-1,Channel 24HD
 http://multistream2.dodear.com:8080/pk-channel24hd/index.m3u8 
-#EXTINF:-1,---- 8xm Pak HD ----
+#EXTINF:-1,8xm Pak HD
 http://multistream2.dodear.com/pk-8xm/index.m3u8 
-#EXTINF:-1,---- 92News HD ----
+#EXTINF:-1,92News HD
 http://multistream2.dodear.com:80/pk-92newshd/index.m3u8?token=MLqiMDm7V1
-#EXTINF:-1,---- A Plus ----
+#EXTINF:-1,A Plus
 http://multistream2.dodear.com:80/pk-aplus/index.m3u8   
-#EXTINF:-1,---- AAP NEWS ----
+#EXTINF:-1,AAP NEWS
 http://multistream2.dodear.com/pk-apptvhd/tracks-v1a1/mono.m3u8 
-#EXTINF:-1,---- Aaj Entertainment ----
+#EXTINF:-1,Aaj Entertainment
 http://multistream2.dodear.com:80/pk-aajentertainment/index.m3u8 
-#EXTINF:-1,---- Aaj News ----
+#EXTINF:-1,Aaj News
 http://multistream2.dodear.com:80/pk-aajnews/index.m3u8 
-#EXTINF:-1,---- KTN ----
+#EXTINF:-1,KTN
 http://multistream2.dodear.com:80/pk-animalplanet/index.m3u8 
-#EXTINF:-1,---- Boomerange ----
+#EXTINF:-1,Boomerange
 http://multistream2.dodear.com:80/ukkids-boomerang/index.m3u8   
-#EXTINF:-1,---- Baby TV ----
+#EXTINF:-1,Baby TV
 http://multistream2.dodear.com:80/ukkids-babytv/index.m3u8  
-#EXTINF:-1,---- BOL Entertainment HD ----
+#EXTINF:-1,BOL Entertainment HD
 http://multistream2.dodear.com:80/pk-bolentertainmenthd/index.m3u8   
-#EXTINF:-1,---- BOL News ----
+#EXTINF:-1,BOL News 
 http://multistream2.dodear.com:80/pk-bolnewsuhd/index.m3u8 
-#EXTINF:-1,---- BOX Nation ----
+#EXTINF:-1,BOX Nation
 http://multistream2.dodear.com:80/uksports-boxnation/index.m3u8   
-#EXTINF:-1,---- Cartoon Network ----
+#EXTINF:-1,Cartoon Network
 http://multistream2.dodear.com:80/pk-cartoonnetwork/index.m3u8   
-#EXTINF:-1,---- Discovery Channel ----
+#EXTINF:-1,Discovery Channel
 http://multistream2.dodear.com:80/ukdocumentry-discoveryhd/index.m3u8
-#EXTINF:-1,---- Disney Channel ----
+#EXTINF:-1,Disney Channel
 http://multistream2.dodear.com:80/ukkids-disneyjunior/index.m3u8   
-#EXTINF:-1,---- Disney XD ----
+#EXTINF:-1,Disney XD
 http://multistream2.dodear.com:80/ukkids-disneyxd/index.m3u8
-#EXTINF:-1,---- FilmWOrld ----
+#EXTINF:-1,FilmWOrld
 http://multistream2.dodear.com:80/pk-filmworld/index.m3u8
-#EXTINF:-1,---- Filmax ----
+#EXTINF:-1,Filmax
 http://multistream2.dodear.com:80/pk-filmmax/index.m3u8 
-#EXTINF:-1,---- FILMAZIA ----
+#EXTINF:-1, FILMAZIA
 http://multistream2.dodear.com:80/pk-LTN-FAMILY/index.m3u8 
-#EXTINF:-1,---- FOX ACTION MOVIES ----
+#EXTINF:-1,FOX ACTION MOVIES
 http://multistream2.dodear.com:80/arabic-foxmoviesaction/index.m3u8  
-#EXTINF:-1,---- FOX CRIME ----
+#EXTINF:-1,FOX CRIME
 http://multistream.dodear.com:8081/live/foxcrime.stream/playlist.m3u8  
-#EXTINF:-1,---- HBO ----
-http://multistream.dodear.com:8081/live/hbo.stream/playlist.m3u8 
-#EXTINF:-1,---- Horror Movies Channel ----
+#EXTINF:-1,HBO
+http://multistream2.dodear.com:8081/live/hbo.stream/playlist.m3u8 
+#EXTINF:-1, Horror Movies Channel
 http://multistream2.dodear.com:80/ukmovies-horrorchannel/index.m3u8  
-#EXTINF:-1,---- LifeTime Movies ----
+#EXTINF:-1,LifeTime Movies
 http://multistream2.dodear.com:80/ukentertainment-lifetime/index.m3u8   
-#EXTINF:-1,---- MCB 2 ----
+#EXTINF:-1,MCB 2
 http://multistream.dodear.com:8081/live/mbc2.stream/playlist.m3u8  
-#EXTINF:-1,---- MCB Action ----
+#EXTINF:-1,MCB Action
 http://multistream.dodear.com:8081/live/mbca.stream/playlist.m3u8   
-#EXTINF:-1,---- MCB Movie MAX ----
+#EXTINF:-1,MCB Movie MAX 
 http://multistream.dodear.com:8081/live/mbca.stream/playlist.m3u8   
-#EXTINF:-1,---- METRO NEWS ----
+#EXTINF:-1,METRO NEWS
 http://multistream2.dodear.com:80/pk-metro1/index.m3u8 
-#EXTINF:-1,---- MOVIE ACTION ----
+#EXTINF:-1,MOVIE ACTION
 http://multistream2.dodear.com:80/ukmovies-skyaction/index.m3u8 
-#EXTINF:-1,---- NAT GEO WILD ----
+#EXTINF:-1,NAT GEO WILD
 http://multistream.dodear.com:8081/live/wild.stream/playlist.m3u8 
-#EXTINF:-1,---- National Geographic ----
+#EXTINF:-1, National Geographic
 http://multistream.dodear.com:8081/live/natgeo.stream/playlist.m3u8
-#EXTINF:-1,---- NICKELODEON ----
+#EXTINF:-1,NICKELODEON
 http://multistream2.dodear.com:80/pk-nick/index.m3u8 
-#EXTINF:-1,---- OXYGEN ----
+#EXTINF:-1,OXYGEN
 http://multistream2.dodear.com:80/pk-oxygen/index.m3u8  
-#EXTINF:-1,---- SKY DISNEY ----
+#EXTINF:-1,SKY DISNEY
 http://multistream2.dodear.com:80/ukmovies-skydisney/index.m3u8
-#EXTINF:-1,---- SKY MIX HD (SPORTS) ----
+#EXTINF:-1,SKY MIX HD (SPORTS)
 http://multistream2.dodear.com:80/uksports-skyspmixhd/index.m3u8 
-#EXTINF:-1,---- SKY SELECT HD ----
+#EXTINF:-1,SKY SELECT HD
 http://multistream2.dodear.com:80/ukmovies-skyselect/index.m3u8 
-#EXTINF:-1,---- TENSPORTS ----
+#EXTINF:-1,TENSPORTS
 http://multistream.dodear.com:8081/live/tensports.stream/playlist.m3u8
-#EXTINF:-1,---- URDU 1 ----
+#EXTINF:-1,URDU 1
 http://multistream2.dodear.com:80/pk-urdu1/index.m3u8
-#EXTINF:-1,---- BEIN MOVIES ----
+#EXTINF:-1,BEIN MOVIES 
 http://multistream2.dodear.com:80/beinmovies1/index.m3u8 
-#EXTINF:-1,---- GEO ENTERTAINMENT ----
+#EXTINF:-1,GEO ENTERTAINMENT
 http://multistream2.dodear.com:80/pk-geoentertainment/index.m3u8 
-#EXTINF:-1,---- MASALA TV ----
+#EXTINF:-1,MASALA TV
 http://multistream2.dodear.com:80/pk-masala/index.m3u8 
-#EXTINF:-1,---- NEO NEWS HD ----
+#EXTINF:-1, NEO NEWS HD 
 http://multistream2.dodear.com:80/pk-neonewshd/index.m3u8
-#EXTINF:-1,---- SAMAA TV ----
+#EXTINF:-1,SAMAA TV
 http://multistream2.dodear.com:80/pk-samaanews/index.m3u8
-#EXTINF:-1,---- AL-MADINA LIVE ----
+#EXTINF:-1,AL-MADINA LIVE
 http://multistream.dodear.com:8081/live/madina.stream/chunklist_w1295574937.m3u8
-#EXTINF:-1,---- AL-MAKKAH LIVE ----
+#EXTINF:-1, AL-MAKKAH LIVE 
 http://multistream.dodear.com:8081/live/makkah.stream/chunklist_w2094526315.m3u8
-#EXTINF:-1,---- APNA TV ----
+#EXTINF:-1,APNA TV
 http://multistream2.dodear.com/pk-apnachannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1,---- ARY DIGITAL ----
+#EXTINF:-1,ARY DIGITAL
 http://multistream2.dodear.com/pk-arydigital/tracks-v1a1/mono.m3u8
-#EXTINF:-1,---- ARY NEWS ----
+#EXTINF:-1,ARY NEWS
 http://multistream2.dodear.com/pk-arynews/tracks-v1a1/mono.m3u8
-#EXTINF:-1,---- ARY ZINDAGI ----
+#EXTINF:-1,ARY ZINDAGI
 http://multistream2.dodear.com/pk-aryzindagi/tracks-v1a1/mono.m3u8
-#EXTINF:-1,---- BBC NEWS ENGLISH ----
+#EXTINF:-1,BBC NEWS ENGLISH
 http://multistream.dodear.com:8081/live/bbc.stream/chunklist_w1629221057.m3u8
-#EXTINF:-1,---- BBC FOUR UK ----
+#EXTINF:-1,BBC FOUR UK
 http://multistream2.dodear.com/uk-bbcfour/tracks-v1a1/mono.m3u8
-#EXTINF:-1,---- CNN ----
+#EXTINF:-1,CNN 
 http://multistream.dodear.com:8081/live/cnn.stream/chunklist_w1522520861.m3u8
-#EXTINF:-1,---- DAWN NEWS ----
+#EXTINF:-1,DAWN NEWS
 http://multistream.dodear.com:8081/live/cnn.stream/chunklist_w1522520861.m3u8
-#EXTINF:-1,---- DUNIYA NEWS ----
+#EXTINF:-1,DUNIYA NEWS
 http://multistream2.dodear.com/pk-dunyanews/tracks-v1a1/mono.m3u8
-#EXTINF:-1,---- EXPRESS ENTERTAINMENT ----
+#EXTINF:-1,EXPRESS ENTERTAINMENT
 http://multistream2.dodear.com/pk-dunyanews/tracks-v1a1/mono.m3u8
-#EXTINF:-1,---- EXPRESS NEWS ----
+#EXTINF:-1,EXPRESS NEWS
 http://multistream2.dodear.com/pk-expressnews/tracks-v1a1/mono.m3u8
-#EXTINF:-1,---- GEO ENTERTAINMENT ----
+#EXTINF:-1,GEO ENTERTAINMENT
 http://multistream2.dodear.com/pk-geoentertainment/tracks-v1a1/mono.m3u8
-#EXTINF:-1,---- GEO KAHANI ----
+#EXTINF:-1,GEO KAHANI
 http://multistream2.dodear.com/pk-geokahani/tracks-v1a1/mono.m3u8
-#EXTINF:-1,---- GEO NEWS ----
+#EXTINF:-1,GEO NEWS 
 http://multistream2.dodear.com/pk-geonews/tracks-v1a1/mono.m3u8
-#EXTINF:-1,---- GEO SUPER ----
+#EXTINF:-1,GEO SUPER 
 http://multistream.dodear.com:8081/live/geosuper.stream/chunklist_w299489837.m3u8
-#EXTINF:-1,---- GEO TEZZ ----
+#EXTINF:-1,GEO TEZZ
 http://multistream2.dodear.com/pk-geotezz/tracks-v1a1/mono.m3u8
-#EXTINF:-1,---- GNN NEWS ----
+#EXTINF:-1,GNN NEWS
 http://multistream2.dodear.com/pk-gnnhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,---- HUM NEWS ----
+#EXTINF:-1,HUM NEWS
 http://multistream2.dodear.com/pk-humnewshd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,---- HUM TV ----
+#EXTINF:-1,HUM TV
 http://multistream2.dodear.com/pk-humtvhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,---- JALWA TV ----
+#EXTINF:-1,JALWA TV
 http://multistream2.dodear.com/pk-jalwa/tracks-v1a1/mono.m3u8
-#EXTINF:-1,---- PLAY TV ----
+#EXTINF:-1,PLAY TV 
 http://multistream2.dodear.com/pk-playtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,---- PTV SPORTS LIVE ----
+#EXTINF:-1,PTV SPORTS LIVE
 http://multistream.dodear.com:8081/live/ptvsports.stream/chunklist_w509833142.m3u8
-#EXTINF:-1,---- PUBLIC NEWS ----
+#EXTINF:-1,PUBLIC NEWS
 http://multistream2.dodear.com/pk-publicnewshd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,---- SACH TV ----
+#EXTINF:-1,SACH TV
 http://multistream2.dodear.com/pk-suchnews/tracks-v1a1/mono.m3u8
-#EXTINF:-1,---- TEN SPORTS ----
+#EXTINF:-1,TEN SPORTS
 http://multistream.dodear.com:8081/live/tensports.stream/chunklist_w389500264.m3u8
 #EXTINF:-1,---- Channel 24HD ----
 #EXTINF:-1,---- Channel 24HD ----
 #EXTINF:-1,---- Channel 24HD ----
 #EXTINF:-1,---- Channel 24HD ----
-#EXTINF:-2,---- TRANSFORMERS THE REVENGE OF THE FALLEN (FULL MOVIE) ----
+#EXTINF:-2,TRANSFORMERS THE REVENGE OF THE FALLEN (FULL MOVIE)
 http://english.dodear.com/movies/english/t/Transformers.2.RevengeoftheFallen.2009/Transformers.2.RevengeoftheFallen.2009.BRRip.Dual.mkv
-#EXTINF:-1,---- CARS 1 ----
+#EXTINF:-1,CARS 1
 http://anime.movies.dodear.com/c/Cars.1.2006/Cars.1.2006.Dual.mkv
-#EXTINF:-1,---- CARS 2 ----
+#EXTINF:-1,CARS 2 
 http://anime.movies.dodear.com/c/Cars.2.2011/Cars.2.2011.BRRip.Dual.mkv
-#EXTINF:-1,---- CARS 3 ----
+#EXTINF:-1,CARS 3
 http://anime.movies.dodear.com/c/Cars.3.2017/Cars.3.2017.BRRip.Dual.mkv
-#EXTINF:-1,---- KOI MILL GAYA ----
+#EXTINF:-1,KOI MILL GAYA
 http://urdu.movies.dodear.com/movies/urdu/k/Koi...MilGaya2003/Koi...MilGaya2003.mkv
-#EXTINF:-1,---- BABY BOSS ----
+#EXTINF:-1,BABY BOSS
 http://anime.movies.dodear.com/t/TheBossBaby.2017/TheBossBaby.2017.BRRip.Dual.mkv
-#EXTINF:-1,---- TOYS STORY 4 ----
+#EXTINF:-1,TOYS STORY 4
 http://anime.movies.dodear.com/t/ToyStory.4.2019/ToyStory.4.2019.BRRip.Dual.mkv
-#EXTINF:-1,---- I.T Chapter One ----
+#EXTINF:-1, I.T Chapter One
 http://english.dodear.com/movies/english/i/It.2017/It.2017.BRRip.Dual.mkv
-#EXTINF:-1,---- I.T CHAPTER TWO ----
+#EXTINF:-1,I.T CHAPTER TWO
 http://english.dodear.com/movies/english/i/ITChapterTwo.2019/ITChapterTwo.2019.BRRip.Dual.mkv
 #EXTINF:-1,---- Channel 24HD ----
 #EXTINF:-1,---- Channel 24HD ----
