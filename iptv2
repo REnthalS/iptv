@@ -1,8 +1,8 @@
 #EXTINF:-1, group-title="MUSIC",8xm
 http://tv.dodear.asia:80/dodear/dodear/14
-#EXTINF:-1,92New HD
+#EXTINF:-1, group-title="NEWS",92New HD
 http://tv.dodear.asia:80/dodear/dodear/83
-#EXTINF:-1,APlus
+#EXTINF:-1, group-title="ENTERTAINMENT",APlus
 http://tv.dodear.asia:80/dodear/dodear/31
 #EXTINF:-1,AAJ Entertainment
 http://tv.dodear.asia:80/dodear/dodear/60
