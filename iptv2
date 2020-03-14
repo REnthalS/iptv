@@ -4,7 +4,7 @@ http://tv.dodear.asia:80/dodear/dodear/14
 http://tv.dodear.asia:80/dodear/dodear/83
 #EXTINF:-1, group-title="ENTERTAINMENT",APlus
 http://tv.dodear.asia:80/dodear/dodear/31
-#EXTINF:-1,AAJ Entertainment
+#EXTINF:-1, group-title="ENTERTAINMENT"AAJ Entertainment
 http://tv.dodear.asia:80/dodear/dodear/60
 #EXTINF:-1,AAJ NEWS
 http://tv.dodear.asia:80/dodear/dodear/61
@@ -12,15 +12,15 @@ http://tv.dodear.asia:80/dodear/dodear/61
 http://tv.dodear.asia:80/dodear/dodear/16
 #EXTINF:-1,ANIMAL PLANET
 http://tv.dodear.asia:80/dodear/dodear/17
-#EXTINF:-1,APNA CHANNEL
+#EXTINF:-1, group-title="ENTERTAINMENT"APNA CHANNEL
 http://tv.dodear.asia:80/dodear/dodear/30
-#EXTINF:-1,APP TV HD
+#EXTINF:-1, group-title="ENTERTAINMENT"APP TV HD
 http://tv.dodear.asia:80/dodear/dodear/82
-#EXTINF:-1,ARUJ
+#EXTINF:-1, group-title="ENTERTAINMENT"ARUJ
 http://tv.dodear.asia:80/dodear/dodear/33
-#EXTINF:-1,ARY DIGITAL
+#EXTINF:-1, group-title="ENTERTAINMENT"ARY DIGITAL
 http://tv.dodear.asia:80/dodear/dodear/74
-#EXTINF:-1,ARY FAMILY
+#EXTINF:-1, group-title="ENTERTAINMENT"ARY FAMILY
 http://tv.dodear.asia:80/dodear/dodear/70
 #EXTINF:-1,ARY MUZIK
 http://tv.dodear.asia:80/dodear/dodear/71
@@ -28,7 +28,7 @@ http://tv.dodear.asia:80/dodear/dodear/71
 http://tv.dodear.asia:80/dodear/dodear/75
 #EXTINF:-1,ARY QTV
 http://tv.dodear.asia:80/dodear/dodear/72
-#EXTINF:-1,ARY ZINDAGI
+#EXTINF:-1, group-title="ENTERTAINMENT"ARY ZINDAGI
 http://tv.dodear.asia:80/dodear/dodear/73
 #EXTINF:-1,ATV
 http://tv.dodear.asia:80/dodear/dodear/76
