@@ -12,15 +12,15 @@ http://tv.dodear.asia:80/dodear/dodear/61
 http://tv.dodear.asia:80/dodear/dodear/16
 #EXTINF:-1, group-title="SCIENCE",ANIMAL PLANET
 http://tv.dodear.asia:80/dodear/dodear/17
-#EXTINF:-1, group-title="ENTERTAINMENT"APNA CHANNEL
+#EXTINF:-1, group-title="ENTERTAINMENT", APNA CHANNEL
 http://tv.dodear.asia:80/dodear/dodear/30
-#EXTINF:-1, group-title="ENTERTAINMENT"APP TV HD
+#EXTINF:-1, group-title="NEWS", APP TV HD
 http://tv.dodear.asia:80/dodear/dodear/82
-#EXTINF:-1, group-title="ENTERTAINMENT"ARUJ
+#EXTINF:-1, group-title="ENTERTAINMENT", ARUJ
 http://tv.dodear.asia:80/dodear/dodear/33
-#EXTINF:-1, group-title="ENTERTAINMENT"ARY DIGITAL
+#EXTINF:-1, group-title="ENTERTAINMENT", ARY DIGITAL
 http://tv.dodear.asia:80/dodear/dodear/74
-#EXTINF:-1, group-title="ENTERTAINMENT"ARY FAMILY
+#EXTINF:-1, group-title="ENTERTAINMENT", ARY FAMILY
 http://tv.dodear.asia:80/dodear/dodear/70
 #EXTINF:-1, group-title="MUSIC",ARY MUZIK
 http://tv.dodear.asia:80/dodear/dodear/71
@@ -28,7 +28,7 @@ http://tv.dodear.asia:80/dodear/dodear/71
 http://tv.dodear.asia:80/dodear/dodear/75
 #EXTINF:-1, group-title="RELIGIOUS",ARY QTV
 http://tv.dodear.asia:80/dodear/dodear/72
-#EXTINF:-1, group-title="ENTERTAINMENT"ARY ZINDAGI
+#EXTINF:-1, group-title="ENTERTAINMENT",ARY ZINDAGI
 http://tv.dodear.asia:80/dodear/dodear/73
 #EXTINF:-1, group-title="ENTERTAINMENT",ATV
 http://tv.dodear.asia:80/dodear/dodear/76
@@ -36,7 +36,7 @@ http://tv.dodear.asia:80/dodear/dodear/76
 http://tv.dodear.asia:80/dodear/dodear/34
 #EXTINF:-1, group-title="MOVIES",AXN
 http://tv.dodear.asia:80/dodear/dodear/11
-#EXTINF:-1, group-title="ENTERTAINMENT",BABY TV
+#EXTINF:-1, group-title="KIDS",BABY TV
 http://tv.dodear.asia:80/dodear/dodear/39
 #EXTINF:-1, group-title="ENTERTAINMENT",BOL ENTERTAINMENT
 http://tv.dodear.asia:80/dodear/dodear/84
@@ -78,7 +78,7 @@ http://tv.dodear.asia:80/dodear/dodear/2
 http://tv.dodear.asia:80/dodear/dodear/69
 #EXTINF:-1, group-title="NEWS",GEO NEWS
 http://tv.dodear.asia:80/dodear/dodear/1
-#EXTINF:-1, group-title="ENTERTAINMENT",GEO TEZZZ
+#EXTINF:-1, group-title="NEWS",GEO TEZZZ
 http://tv.dodear.asia:80/dodear/dodear/68
 #EXTINF:-1, group-title="NEWS",GNN HD
 http://tv.dodear.asia:80/dodear/dodear/88
