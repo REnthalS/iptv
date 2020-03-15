@@ -162,9 +162,116 @@ http://tv.dodear.asia:80/dodear/dodear/45
 http://tv.dodear.asia:80/dodear/dodear/46
 #EXTINF:-1, group-title="ENTERTAINMENT",DHARTI TV
 http://tv.dodear.asia:80/dodear/dodear/438
-EXTINF:-1, group-title="MOVIES",DMG MOVIES
+EXTINF:-1, group-title="INHOUSE CHANNELS",DMG MOVIES
 http://tv.dodear.asia:80/dodear/dodear/372
-EXTINF:-1, group-title="MOVIES",DMG CINEMA
+EXTINF:-1, group-title="INHOUSE CHANNELS",DMG CINEMA
 http://tv.dodear.asia:80/dodear/dodear/373
 EXTINF:-1, group-title="SPORTS",WWE Super Slam
 http://tv.dodear.asia:80/dodear/dodear/442
+EXTINF:-1, group-title="INHOUSE CHANNELS",DMG MUSIC
+http://tv.dodear.asia:80/dodear/dodear/378
+EXTINF:-1, group-title="INHOUSE MOVIES",DMG LIFE STYLE
+http://tv.dodear.asia:80/dodear/dodear/377
+EXTINF:-1, group-title="INHOUSE MOVIES",DMG HITS
+http://tv.dodear.asia:80/dodear/dodear/375
+EXTINF:-1, group-title="INHOUSE MOVIES",DMG PLUS
+http://tv.dodear.asia:80/dodear/dodear/376
+EXTINF:-1, group-title="INHOUSE MOVIES",DMG ACTION
+http://tv.dodear.asia:80/dodear/dodear/374
+EXTINF:-1, group-title="RELIGIOUS",KARBALA TV
+http://tv.dodear.asia:80/dodear/dodear/94
+EXTINF:-1, group-title="RELIGIOUS",PEACE TV ENGLISH
+http://tv.dodear.asia:80/dodear/dodear/95
+EXTINF:-1, group-title="RELIGIOUS",PEACE TV URDU
+http://tv.dodear.asia:80/dodear/dodear/96
+EXTINF:-1, group-title="RELIGIOUS",AL-MAKKAH LIVE
+http://tv.dodear.asia:80/dodear/dodear/97
+EXTINF:-1, group-title="RELIGIOUS",AL-MADINA LIVE
+http://tv.dodear.asia:80/dodear/dodear/98
+EXTINF:-1, group-title="UK-MOVIES",UK-Horror Channel
+http://tv.dodear.asia:80/dodear/dodear/231
+EXTINF:-1, group-title="UK-MOVIES",UK-SKY ATLANTIC
+http://tv.dodear.asia:80/dodear/dodear/230
+EXTINF:-1, group-title="UK-MOVIES",UK-SKY CINEMA ACTION
+http://tv.dodear.asia:80/dodear/dodear/240
+EXTINF:-1, group-title="UK-MOVIES",UK-SKY CINEMA COMEDY
+http://tv.dodear.asia:80/dodear/dodear/239
+EXTINF:-1, group-title="UK-MOVIES",UK-SKY CINEMA DISNEY
+http://tv.dodear.asia:80/dodear/dodear/237
+EXTINF:-1, group-title="UK-MOVIES",UK-SKY CINEMA DRAMA
+http://tv.dodear.asia:80/dodear/dodear/236
+EXTINF:-1, group-title="UK-MOVIES",UK-SKY CINEMA FAMILY
+http://tv.dodear.asia:80/dodear/dodear/235
+EXTINF:-1, group-title="UK-MOVIES",UK-SKY CINEMA HITS
+http://tv.dodear.asia:80/dodear/dodear/234
+EXTINF:-1, group-title="UK-MOVIES",UK-SKY CINEMA PREMIER
+http://tv.dodear.asia:80/dodear/dodear/241
+EXTINF:-1, group-title="UK-MOVIES",UK-SKY CINEMA SCI-FI & HORROR
+http://tv.dodear.asia:80/dodear/dodear/233
+EXTINF:-1, group-title="UK-MOVIES",UK-SKY CINEMA SELECT
+http://tv.dodear.asia:80/dodear/dodear/232
+EXTINF:-1, group-title="UK-MOVIES",UK-SKY CINEMA THRILL
+http://tv.dodear.asia:80/dodear/dodear/238
+EXTINF:-1, group-title="UK-MOVIES",UK-SKY LIVING
+http://tv.dodear.asia:80/dodear/dodear/326
+EXTINF:-1, group-title="UK-MOVIES",UK-MOVIES 24
+http://tv.dodear.asia:80/dodear/dodear/325
+EXTINF:-1, group-title="UK-MOVIES",UK-UNIVERSAL CHANNEL
+http://tv.dodear.asia:80/dodear/dodear/327
+EXTINF:-1, group-title="UK-MOVIES",UK-TRUE MOVIES
+http://tv.dodear.asia:80/dodear/dodear/329
+EXTINF:-1, group-title="UK-MOVIES",UK-TRUE ENTERTAINMENT
+http://tv.dodear.asia:80/dodear/dodear/328
+EXTINF:-1, group-title="UK-ENTERTAIMENT",UK-BABY TV
+http://tv.dodear.asia:80/dodear/dodear/139
+EXTINF:-1, group-title="UK-ENTERTAIMENT",UK-BBC FOUR
+http://tv.dodear.asia:80/dodear/dodear/103
+EXTINF:-1, group-title="UK-ENTERTAIMENT",UK-BBC ONE
+http://tv.dodear.asia:80/dodear/dodear/105
+EXTINF:-1, group-title="UK-ENTERTAIMENT",UK-BBC TWO
+http://tv.dodear.asia:80/dodear/dodear/104
+EXTINF:-1, group-title="UK-ENTERTAIMENT",UK-BOOMERANG
+http://tv.dodear.asia:80/dodear/dodear/138
+EXTINF:-1, group-title="UK-ENTERTAIMENT",UK-CBS ACTION
+http://tv.dodear.asia:80/dodear/dodear/102
+EXTINF:-1, group-title="UK-ENTERTAIMENT",UK-CBS DRAMA
+http://tv.dodear.asia:80/dodear/dodear/101
+EXTINF:-1, group-title="UK-ENTERTAIMENT",UK-CBS REALITY
+http://tv.dodear.asia:80/dodear/dodear/100
+EXTINF:-1, group-title="UK-ENTERTAIMENT",UK-DISCOVERY HD
+http://tv.dodear.asia:80/dodear/dodear/141
+EXTINF:-1, group-title="UK-ENTERTAIMENT",UK-DISCOVERY SCIENCE
+http://tv.dodear.asia:80/dodear/dodear/140
+EXTINF:-1, group-title="UK-ENTERTAIMENT",UK-FOX
+http://tv.dodear.asia:80/dodear/dodear/111
+EXTINF:-1, group-title="UK-ENTERTAIMENT",UK-HISTORY
+http://tv.dodear.asia:80/dodear/dodear/142
+EXTINF:-1, group-title="UK-ENTERTAIMENT",UK-ITV
+http://tv.dodear.asia:80/dodear/dodear/110
+EXTINF:-1, group-title="UK-ENTERTAIMENT",UK-LIFETIME
+http://tv.dodear.asia:80/dodear/dodear/106
+EXTINF:-1, group-title="UK-ENTERTAIMENT",UK-NATIONAL GEOGRAPHIC
+http://tv.dodear.asia:80/dodear/dodear/143
+EXTINF:-1, group-title="UK-ENTERTAIMENT",UK-SKY ONE
+http://tv.dodear.asia:80/dodear/dodear/109
+EXTINF:-1, group-title="UK-ENTERTAIMENT",UK-SKY TWO
+http://tv.dodear.asia:80/dodear/dodear/108
+EXTINF:-1, group-title="UK-ENTERTAIMENT",UK-SYFY HD
+http://tv.dodear.asia:80/dodear/dodear/107
+EXTINF:-1, group-title="UK-ENTERTAIMENT",UK-BBC
+http://tv.dodear.asia:80/dodear/dodear/256
+EXTINF:-1, group-title="UK-ENTERTAIMENT",UK-CNN
+http://tv.dodear.asia:80/dodear/dodear/255
+EXTINF:-1, group-title="UK-ENTERTAIMENT",UK-E4
+http://tv.dodear.asia:80/dodear/dodear/324
+
+
+
+
+
+
+
+
+
+
+
