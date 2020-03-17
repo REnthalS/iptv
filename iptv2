@@ -1,55 +1,17 @@
-#EXTINF:-1, group-title="MUSIC",8xm
-http://tv.dodear.asia:80/dodear/dodear/14
 #EXTINF:-1, group-title="NEWS",92New HD
 http://tv.dodear.asia:80/dodear/dodear/83
-#EXTINF:-1, group-title="ENTERTAINMENT",APlus
-http://tv.dodear.asia:80/dodear/dodear/31
-#EXTINF:-1, group-title="ENTERTAINMENT",AAJ Entertainment
-http://tv.dodear.asia:80/dodear/dodear/60
 #EXTINF:-1, group-title="NEWS",AAJ NEWS
 http://tv.dodear.asia:80/dodear/dodear/61
 #EXTINF:-1, group-title="NEWS",ABB TAK NEWS
 http://tv.dodear.asia:80/dodear/dodear/16
-#EXTINF:-1, group-title="SCIENCE",ANIMAL PLANET
-http://tv.dodear.asia:80/dodear/dodear/17
-#EXTINF:-1, group-title="ENTERTAINMENT", APNA CHANNEL
-http://tv.dodear.asia:80/dodear/dodear/30
-#EXTINF:-1, group-title="NEWS", APP TV HD
-http://tv.dodear.asia:80/dodear/dodear/82
-#EXTINF:-1, group-title="ENTERTAINMENT", ARUJ
-http://tv.dodear.asia:80/dodear/dodear/33
-#EXTINF:-1, group-title="ENTERTAINMENT", ARY DIGITAL
-http://tv.dodear.asia:80/dodear/dodear/74
-#EXTINF:-1, group-title="ENTERTAINMENT", ARY FAMILY
-http://tv.dodear.asia:80/dodear/dodear/70
-#EXTINF:-1, group-title="MUSIC",ARY MUZIK
-http://tv.dodear.asia:80/dodear/dodear/71
 #EXTINF:-1, group-title="NEWS",ARY NEWS
 http://tv.dodear.asia:80/dodear/dodear/75
-#EXTINF:-1, group-title="RELIGIOUS",ARY QTV
-http://tv.dodear.asia:80/dodear/dodear/72
-#EXTINF:-1, group-title="ENTERTAINMENT",ARY ZINDAGI
-http://tv.dodear.asia:80/dodear/dodear/73
-#EXTINF:-1, group-title="ENTERTAINMENT",ATV
-http://tv.dodear.asia:80/dodear/dodear/76
-#EXTINF:-1, group-title="ENTERTAINMENT",AVT KHYBER
-http://tv.dodear.asia:80/dodear/dodear/34
-#EXTINF:-1, group-title="MOVIES",AXN
-http://tv.dodear.asia:80/dodear/dodear/11
-#EXTINF:-1, group-title="KIDS",BABY TV
-http://tv.dodear.asia:80/dodear/dodear/39
-#EXTINF:-1, group-title="ENTERTAINMENT",BOL ENTERTAINMENT
-http://tv.dodear.asia:80/dodear/dodear/84
 #EXTINF:-1, group-title="NEWS",BOL NEWS UHD
 http://tv.dodear.asia:80/dodear/dodear/85
 #EXTINF:-1, group-title="NEWS",CAPITAL TV
 http://tv.dodear.asia:80/dodear/dodear/62
-#EXTINF:-1, group-title="KIDS",CARTOON NETWORK
-http://tv.dodear.asia:80/dodear/dodear/5
 #EXTINF:-1, group-title="NEWS",CHANNEL 24 HD
 http://tv.dodear.asia:80/dodear/dodear/86
-#EXTINF:-1, group-title="NEWS",CHANNEL 5
-http://tv.dodear.asia:80/dodear/dodear/20
 #EXTINF:-1, group-title="NEWS",CITY 41
 http://tv.dodear.asia:80/dodear/dodear/7
 #EXTINF:-1, group-title="NEWS",CITY 42
@@ -58,82 +20,108 @@ http://tv.dodear.asia:80/dodear/dodear/6
 http://tv.dodear.asia:80/dodear/dodear/49
 #EXTINF:-1, group-title="NEWS",DIN NEWS HD
 http://tv.dodear.asia:80/dodear/dodear/87
-#EXTINF:-1, group-title="SCIENCE",DISCOVERY
-http://tv.dodear.asia:80/dodear/dodear/18
 #EXTINF:-1, group-title="NEWS",DUNIYA NEWS
 http://tv.dodear.asia:80/dodear/dodear/63
-#EXTINF:-1, group-title="ENTERTAINMENT",EXPRESS ENTERTAINMENT
-http://tv.dodear.asia:80/dodear/dodear/64
 #EXTINF:-1, group-title="NEWS",EXPRESS NEWS
 http://tv.dodear.asia:80/dodear/dodear/65
-#EXTINF:-1, group-title="MOVIES",FILMWORLD
-http://tv.dodear.asia:80/dodear/dodear/21
-#EXTINF:-1, group-title="MOVIES",FILMAX
-http://tv.dodear.asia:80/dodear/dodear/15
-#EXTINF:-1, group-title="ENTERTAINMENT",LTN FAMILY
-http://tv.dodear.asia:80/dodear/dodear/43
-#EXTINF:-1, group-title="ENTERTAINMENT",GEO ENTERTAINMENT
-http://tv.dodear.asia:80/dodear/dodear/2
-#EXTINF:-1, group-title="ENTERTAINMENT",GEO KAHANI
-http://tv.dodear.asia:80/dodear/dodear/69
 #EXTINF:-1, group-title="NEWS",GEO NEWS
 http://tv.dodear.asia:80/dodear/dodear/1
-#EXTINF:-1, group-title="NEWS",GEO TEZZZ
-http://tv.dodear.asia:80/dodear/dodear/68
 #EXTINF:-1, group-title="NEWS",GNN HD
 http://tv.dodear.asia:80/dodear/dodear/88
 #EXTINF:-1, group-title="NEWS",GTV HD
 http://tv.dodear.asia:80/dodear/dodear/79
-#EXTINF:-1, group-title="RELIGIOUS",HADI 1
-http://tv.dodear.asia:80/dodear/dodear/22
-#EXTINF:-1, group-title="COOKING",HUM MASALA TV
-http://tv.dodear.asia:80/dodear/dodear/53
 #EXTINF:-1, group-title="NEWS",HUM NEWS HD
 http://tv.dodear.asia:80/dodear/dodear/92
-#EXTINF:-1, group-title="ENTERTAINMENT",HUM SITARY
-http://tv.dodear.asia:80/dodear/dodear/77
-#EXTINF:-1, group-title="NEWS",HUM TV HD
-http://tv.dodear.asia:80/dodear/dodear/91
 #EXTINF:-1, group-title="NEWS",INDUS TV HD
 http://tv.dodear.asia:80/dodear/dodear/80
-#EXTINF:-1, group-title="MUSIC",JALWA
-http://tv.dodear.asia:80/dodear/dodear/23
 #EXTINF:-1, group-title="NEWS",K 21
 http://tv.dodear.asia:80/dodear/dodear/25
-#EXTINF:-1, group-title="ENTERTAINMENT",KASHISH
-http://tv.dodear.asia:80/dodear/dodear/50
-#EXTINF:-1, group-title="ENTERTAINMENT",KAY2
-http://tv.dodear.asia:80/dodear/dodear/24
 #EXTINF:-1, group-title="NEWS",KHYBER NEWS
 http://tv.dodear.asia:80/dodear/dodear/35
-#EXTINF:-1, group-title="KIDS",KIDS ZONE
-http://tv.dodear.asia:80/dodear/dodear/19
-#EXTINF:-1, group-title="ENTERTAINMENT",KOHINOOR
-http://tv.dodear.asia:80/dodear/dodear/36
-#EXTINF:-1, group-title="ENTERTAINMENT",KTN
-http://tv.dodear.asia:80/dodear/dodear/52
 #EXTINF:-1, group-title="NEWS",KTN NEWS
 http://tv.dodear.asia:80/dodear/dodear/51
 #EXTINF:-1, group-title="NEWS",LAHORE NEWS HD
 http://tv.dodear.asia:80/dodear/dodear/89
-#EXTINF:-1, group-title="ENTERTAINMENT",LAHORE RANG
-http://tv.dodear.asia:80/dodear/dodear/78
-#EXTINF:-1, group-title="RELIGIOUS",MADNI CHANNEL
-http://tv.dodear.asia:80/dodear/dodear/32
-#EXTINF:-1, group-title="ENTERTAINMENT",MEHRAN
-http://tv.dodear.asia:80/dodear/dodear/37
 #EXTINF:-1, group-title="NEWS",METRO 1
 http://tv.dodear.asia:80/dodear/dodear/4
 #EXTINF:-1, group-title="NEWS",NEO NEWS HD
 http://tv.dodear.asia:80/dodear/dodear/81
 #EXTINF:-1, group-title="NEWS",NEWS ONE
 http://tv.dodear.asia:80/dodear/dodear/47
-#EXTINF:-1, group-title="KIDS",NICK
-http://tv.dodear.asia:80/dodear/dodear/3
-#EXTINF:-1, group-title="MUSIC",OXYGEN
-http://tv.dodear.asia:80/dodear/dodear/8
-#EXTINF:-1, group-title="RELIGIOUS",PAIGHAM URDU
-http://tv.dodear.asia:80/dodear/dodear/13
+#EXTINF:-1, group-title="NEWS",PTV NEWS
+http://tv.dodear.asia:80/dodear/dodear/58
+#EXTINF:-1, group-title="NEWS",PUBLIC NEWS HD
+http://tv.dodear.asia:80/dodear/dodear/90
+#EXTINF:-1, group-title="NEWS",ROHI TV
+http://tv.dodear.asia:80/dodear/dodear/41
+#EXTINF:-1, group-title="NEWS",SAMAA NEWS
+http://tv.dodear.asia:80/dodear/dodear/59
+#EXTINF:-1, group-title="NEWS",CHANNEL 5
+http://tv.dodear.asia:80/dodear/dodear/20
+#EXTINF:-1, group-title="NEWS",HUM TV HD
+http://tv.dodear.asia:80/dodear/dodear/91
+EXTINF:-1, group-title="INHOUSE CHANNELS",DMG MOVIES
+http://tv.dodear.asia:80/dodear/dodear/372
+EXTINF:-1, group-title="INHOUSE CHANNELS",DMG CINEMA
+http://tv.dodear.asia:80/dodear/dodear/373
+EXTINF:-1, group-title="INHOUSE CHANNELS",DMG MUSIC
+http://tv.dodear.asia:80/dodear/dodear/378
+EXTINF:-1, group-title="INHOUSE MOVIES",DMG LIFE STYLE
+http://tv.dodear.asia:80/dodear/dodear/377
+EXTINF:-1, group-title="INHOUSE MOVIES",DMG HITS
+http://tv.dodear.asia:80/dodear/dodear/375
+EXTINF:-1, group-title="INHOUSE MOVIES",DMG PLUS
+http://tv.dodear.asia:80/dodear/dodear/376
+EXTINF:-1, group-title="INHOUSE MOVIES",DMG ACTION
+http://tv.dodear.asia:80/dodear/dodear/374
+#EXTINF:-1, group-title="ENTERTAINMENT",APlus
+http://tv.dodear.asia:80/dodear/dodear/31
+#EXTINF:-1, group-title="ENTERTAINMENT",AAJ Entertainment
+http://tv.dodear.asia:80/dodear/dodear/60
+#EXTINF:-1, group-title="ENTERTAINMENT"APNA CHANNEL
+http://tv.dodear.asia:80/dodear/dodear/30
+#EXTINF:-1, group-title="ENTERTAINMENT"APP TV HD
+http://tv.dodear.asia:80/dodear/dodear/82
+#EXTINF:-1, group-title="ENTERTAINMENT"ARUJ
+http://tv.dodear.asia:80/dodear/dodear/33
+#EXTINF:-1, group-title="ENTERTAINMENT"ARY DIGITAL
+http://tv.dodear.asia:80/dodear/dodear/74
+#EXTINF:-1, group-title="ENTERTAINMENT"ARY FAMILY
+http://tv.dodear.asia:80/dodear/dodear/70
+#EXTINF:-1, group-title="ENTERTAINMENT"ARY ZINDAGI
+http://tv.dodear.asia:80/dodear/dodear/73
+#EXTINF:-1, group-title="ENTERTAINMENT",ATV
+http://tv.dodear.asia:80/dodear/dodear/76
+#EXTINF:-1, group-title="ENTERTAINMENT",AVT KHYBER
+http://tv.dodear.asia:80/dodear/dodear/34
+#EXTINF:-1, group-title="ENTERTAINMENT",BABY TV
+http://tv.dodear.asia:80/dodear/dodear/39
+#EXTINF:-1, group-title="ENTERTAINMENT",BOL ENTERTAINMENT
+http://tv.dodear.asia:80/dodear/dodear/84
+#EXTINF:-1, group-title="ENTERTAINMENT",EXPRESS ENTERTAINMENT
+http://tv.dodear.asia:80/dodear/dodear/64
+#EXTINF:-1, group-title="ENTERTAINMENT",LTN FAMILY
+http://tv.dodear.asia:80/dodear/dodear/43
+#EXTINF:-1, group-title="ENTERTAINMENT",GEO ENTERTAINMENT
+http://tv.dodear.asia:80/dodear/dodear/2
+#EXTINF:-1, group-title="ENTERTAINMENT",GEO KAHANI
+http://tv.dodear.asia:80/dodear/dodear/69
+#EXTINF:-1, group-title="ENTERTAINMENT",GEO TEZZZ
+http://tv.dodear.asia:80/dodear/dodear/68
+#EXTINF:-1, group-title="ENTERTAINMENT",HUM SITARY
+http://tv.dodear.asia:80/dodear/dodear/77
+#EXTINF:-1, group-title="ENTERTAINMENT",KASHISH
+http://tv.dodear.asia:80/dodear/dodear/50
+#EXTINF:-1, group-title="ENTERTAINMENT",KAY2
+http://tv.dodear.asia:80/dodear/dodear/24
+#EXTINF:-1, group-title="ENTERTAINMENT",KOHINOOR
+http://tv.dodear.asia:80/dodear/dodear/36
+#EXTINF:-1, group-title="ENTERTAINMENT",KTN
+http://tv.dodear.asia:80/dodear/dodear/52
+#EXTINF:-1, group-title="ENTERTAINMENT",LAHORE RANG
+http://tv.dodear.asia:80/dodear/dodear/78
+#EXTINF:-1, group-title="ENTERTAINMENT",MEHRAN
+http://tv.dodear.asia:80/dodear/dodear/37
 #EXTINF:-1, group-title="ENTERTAINMENT",PLAY TV
 http://tv.dodear.asia:80/dodear/dodear/9
 #EXTINF:-1, group-title="ENTERTAINMENT",POP+
@@ -144,40 +132,32 @@ http://tv.dodear.asia:80/dodear/dodear/54
 http://tv.dodear.asia:80/dodear/dodear/56
 #EXTINF:-1, group-title="ENTERTAINMENT",PTV HOME
 http://tv.dodear.asia:80/dodear/dodear/57
-#EXTINF:-1, group-title="NEWS",PTV NEWS
-http://tv.dodear.asia:80/dodear/dodear/58
 #EXTINF:-1, group-title="ENTERTAINMENT",PTV WORLD
 http://tv.dodear.asia:80/dodear/dodear/55
-#EXTINF:-1, group-title="NEWS",PUBLIC NEWS HD
-http://tv.dodear.asia:80/dodear/dodear/90
 #EXTINF:-1, group-title="ENTERTAINMENT",RAAVI
 http://tv.dodear.asia:80/dodear/dodear/42
-#EXTINF:-1, group-title="NEWS",ROHI TV
-http://tv.dodear.asia:80/dodear/dodear/41
-#EXTINF:-1, group-title="NEWS",SAMAA NEWS
-http://tv.dodear.asia:80/dodear/dodear/59
 #EXTINF:-1, group-title="ENTERTAINMENT",SEE TV
 http://tv.dodear.asia:80/dodear/dodear/45
 #EXTINF:-1, group-title="ENTERTAINMENT",URDU 1
 http://tv.dodear.asia:80/dodear/dodear/46
 #EXTINF:-1, group-title="ENTERTAINMENT",DHARTI TV
 http://tv.dodear.asia:80/dodear/dodear/438
-EXTINF:-1, group-title="INHOUSE CHANNELS",DMG MOVIES
-http://tv.dodear.asia:80/dodear/dodear/372
-EXTINF:-1, group-title="INHOUSE CHANNELS",DMG CINEMA
-http://tv.dodear.asia:80/dodear/dodear/373
-EXTINF:-1, group-title="SPORTS",WWE Super Slam
-http://tv.dodear.asia:80/dodear/dodear/442
-EXTINF:-1, group-title="INHOUSE CHANNELS",DMG MUSIC
-http://tv.dodear.asia:80/dodear/dodear/378
-EXTINF:-1, group-title="INHOUSE CHANNELS",DMG LIFE STYLE
-http://tv.dodear.asia:80/dodear/dodear/377
-EXTINF:-1, group-title="INHOUSE CHANNELS",DMG HITS
-http://tv.dodear.asia:80/dodear/dodear/375
-EXTINF:-1, group-title="INHOUSE CHANNELS",DMG PLUS
-http://tv.dodear.asia:80/dodear/dodear/376
-EXTINF:-1, group-title="INHOUSE CHANNELS",DMG ACTION
-http://tv.dodear.asia:80/dodear/dodear/374
+#EXTINF:-1, group-title="MUSIC",JALWA
+http://tv.dodear.asia:80/dodear/dodear/23
+#EXTINF:-1, group-title="MUSIC",OXYGEN
+http://tv.dodear.asia:80/dodear/dodear/8
+#EXTINF:-1, group-title="MUSIC",8xm
+http://tv.dodear.asia:80/dodear/dodear/14
+#EXTINF:-1, group-title="MUSIC",ARY MUZIK
+http://tv.dodear.asia:80/dodear/dodear/71
+#EXTINF:-1, group-title="RELIGIOUS",ARY QTV
+http://tv.dodear.asia:80/dodear/dodear/72
+#EXTINF:-1, group-title="RELIGIOUS",HADI 1
+http://tv.dodear.asia:80/dodear/dodear/22
+#EXTINF:-1, group-title="RELIGIOUS",MADNI CHANNEL
+http://tv.dodear.asia:80/dodear/dodear/32
+#EXTINF:-1, group-title="RELIGIOUS",PAIGHAM URDU
+http://tv.dodear.asia:80/dodear/dodear/13
 EXTINF:-1, group-title="RELIGIOUS",KARBALA TV
 http://tv.dodear.asia:80/dodear/dodear/94
 EXTINF:-1, group-title="RELIGIOUS",PEACE TV ENGLISH
@@ -188,6 +168,28 @@ EXTINF:-1, group-title="RELIGIOUS",AL-MAKKAH LIVE
 http://tv.dodear.asia:80/dodear/dodear/97
 EXTINF:-1, group-title="RELIGIOUS",AL-MADINA LIVE
 http://tv.dodear.asia:80/dodear/dodear/98
+EXTINF:-1, group-title="SPORTS",WWE Super Slam
+http://tv.dodear.asia:80/dodear/dodear/442
+EXTINF:-1, group-title="SPORTS",WWE LIVE
+http://tv.dodear.asia:80/dodear/dodear/387
+#EXTINF:-1, group-title="SCIENCE",ANIMAL PLANET
+http://tv.dodear.asia:80/dodear/dodear/17
+#EXTINF:-1, group-title="SCIENCE",DISCOVERY
+http://tv.dodear.asia:80/dodear/dodear/18
+#EXTINF:-1, group-title="MOVIES",AXN
+http://tv.dodear.asia:80/dodear/dodear/11
+#EXTINF:-1, group-title="MOVIES",FILMWORLD
+http://tv.dodear.asia:80/dodear/dodear/21
+#EXTINF:-1, group-title="MOVIES",FILMAX
+http://tv.dodear.asia:80/dodear/dodear/15
+#EXTINF:-1, group-title="KIDS",CARTOON NETWORK
+http://tv.dodear.asia:80/dodear/dodear/5
+#EXTINF:-1, group-title="KIDS",KIDS ZONE
+http://tv.dodear.asia:80/dodear/dodear/19
+#EXTINF:-1, group-title="KIDS",NICK
+http://tv.dodear.asia:80/dodear/dodear/3
+#EXTINF:-1, group-title="COOKING",HUM MASALA TV
+http://tv.dodear.asia:80/dodear/dodear/53
 EXTINF:-1, group-title="UK-MOVIES",UK-Horror Channel
 http://tv.dodear.asia:80/dodear/dodear/231
 EXTINF:-1, group-title="UK-MOVIES",UK-SKY ATLANTIC
@@ -288,14 +290,3 @@ EXTINF:-1, group-title="UK-KIDS",UK-KIDS RTE JR
 http://tv.dodear.asia:80/dodear/dodear/126
 EXTINF:-1, group-title="UK-KIDS",UK-KIDS TINY POPS
 http://tv.dodear.asia:80/dodear/dodear/127
-EXTINF:-1, group-title="SPORTS",WWE LIVE
-http://tv.dodear.asia:80/dodear/dodear/387
-
-
-
-
-
-
-
-
-
