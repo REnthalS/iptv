@@ -332,6 +332,28 @@ http://tv.dodear.asia:80/dodear/dodear/425
 http://tv.dodear.asia:80/dodear/dodear/440
 #EXTINF:-1, group-title="MOVIES",MBS DRAMA
 http://tv.dodear.asia:80/dodear/dodear/463
+#EXTINF:-1, group-title="MOVIES",e MOVIES
+http://tv.dodear.asia:80/dodear/dodear/443
+#EXTINF:-1, group-title="MOVIES",e MOVIES Xtra
+http://tv.dodear.asia:80/dodear/dodear/444
+#EXTINF:-1, group-title="MOVIES",M-NET
+http://tv.dodear.asia:80/dodear/dodear/445
+#EXTINF:-1, group-title="MOVIES",M-NET PLUS 1
+http://tv.dodear.asia:80/dodear/dodear/446
+#EXTINF:-1, group-title="MOVIES",MAGIC FAMILY
+http://tv.dodear.asia:80/dodear/dodear/447
+#EXTINF:-1, group-title="MOVIES",M-NET MOVIES SMILE
+http://tv.dodear.asia:80/dodear/dodear/449
+#EXTINF:-1, group-title="MOVIES",M-NET MOVIES ALL STARS
+http://tv.dodear.asia:80/dodear/dodear/450
+#EXTINF:-1, group-title="MOVIES",M-NET MOVIES ACTION
+http://tv.dodear.asia:80/dodear/dodear/451
+#EXTINF:-1, group-title="MOVIES",M-NET MOVIES ACTION+
+http://tv.dodear.asia:80/dodear/dodear/452
+#EXTINF:-1, group-title="MOVIES",M-NET MOVIES PREMIUM
+http://tv.dodear.asia:80/dodear/dodear/448
+#EXTINF:-1, group-title="MOVIES",MBS DRAMA
+http://tv.dodear.asia:80/dodear/dodear/463
 #EXTINF:-1, group-title="KIDS",CARTOON NETWORK
 http://tv.dodear.asia:80/dodear/dodear/5
 #EXTINF:-1, group-title="KIDS",KIDS ZONE
