@@ -258,6 +258,76 @@ http://tv.dodear.asia:80/dodear/dodear/11
 http://tv.dodear.asia:80/dodear/dodear/21
 #EXTINF:-1, group-title="MOVIES",FILMAX
 http://tv.dodear.asia:80/dodear/dodear/15
+#EXTINF:-1, group-title="MOVIES",BEIN MOVIES 4 HD
+http://tv.dodear.asia:80/dodear/dodear/112
+#EXTINF:-1, group-title="MOVIES",BEIN MOVIES 3 HD
+http://tv.dodear.asia:80/dodear/dodear/113
+#EXTINF:-1, group-title="MOVIES",BEIN MOVIES 2 HD
+http://tv.dodear.asia:80/dodear/dodear/114
+#EXTINF:-1, group-title="MOVIES",BEIN MOVIES 1 HD
+http://tv.dodear.asia:80/dodear/dodear/115
+#EXTINF:-1, group-title="MOVIES",BEIN DRAMA 1
+http://tv.dodear.asia:80/dodear/dodear/252
+#EXTINF:-1, group-title="MOVIES",BEIN SERIES 2
+http://tv.dodear.asia:80/dodear/dodear/253
+#EXTINF:-1, group-title="MOVIES",BEIN SERIES 1
+http://tv.dodear.asia:80/dodear/dodear/254
+#EXTINF:-1, group-title="MOVIES",BEIN DRAMA WORKS
+http://tv.dodear.asia:80/dodear/dodear/457
+#EXTINF:-1, group-title="MOVIES",BEIN FOX HD
+http://tv.dodear.asia:80/dodear/dodear/461
+#EXTINF:-1, group-title="MOVIES",BEIN FOX MOVIES
+http://tv.dodear.asia:80/dodear/dodear/462
+#EXTINF:-1, group-title="MOVIES",MBC 1
+http://tv.dodear.asia:80/dodear/dodear/394
+#EXTINF:-1, group-title="MOVIES",MBC 2
+http://tv.dodear.asia:80/dodear/dodear/395
+#EXTINF:-1, group-title="MOVIES",MBC 3
+http://tv.dodear.asia:80/dodear/dodear/396
+#EXTINF:-1, group-title="MOVIES",MBC 4
+http://tv.dodear.asia:80/dodear/dodear/397
+#EXTINF:-1, group-title="MOVIES",MBC ACTION
+http://tv.dodear.asia:80/dodear/dodear/398
+#EXTINF:-1, group-title="MOVIES",MBC VARIETY
+http://tv.dodear.asia:80/dodear/dodear/399
+#EXTINF:-1, group-title="MOVIES",MBC MAX HD
+http://tv.dodear.asia:80/dodear/dodear/400
+#EXTINF:-1, group-title="MOVIES",OSN MOVIES
+http://tv.dodear.asia:80/dodear/dodear/408
+#EXTINF:-1, group-title="MOVIES",OSN MOVIES ACTION
+http://tv.dodear.asia:80/dodear/dodear/409
+#EXTINF:-1, group-title="MOVIES",OSN MOVIES COMEDY
+http://tv.dodear.asia:80/dodear/dodear/410
+#EXTINF:-1, group-title="MOVIES",OSN BINGE
+http://tv.dodear.asia:80/dodear/dodear/411
+#EXTINF:-1, group-title="MOVIES",OSN ENIGMA
+http://tv.dodear.asia:80/dodear/dodear/412
+#EXTINF:-1, group-title="MOVIES",OSN MOVIES FIRST
+http://tv.dodear.asia:80/dodear/dodear/414
+#EXTINF:-1, group-title="MOVIES",OSN SERIES FIRST
+http://tv.dodear.asia:80/dodear/dodear/415
+#EXTINF:-1, group-title="MOVIES",OSN SYFY
+http://tv.dodear.asia:80/dodear/dodear/416
+#EXTINF:-1, group-title="MOVIES",OSN LIVING
+http://tv.dodear.asia:80/dodear/dodear/417
+#EXTINF:-1, group-title="MOVIES",OSN KIDS ZONE
+http://tv.dodear.asia:80/dodear/dodear/419
+#EXTINF:-1, group-title="MOVIES",OSN KIDS
+http://tv.dodear.asia:80/dodear/dodear/420
+#EXTINF:-1, group-title="SCIENCE",OSN ANIMAL PLANET
+http://tv.dodear.asia:80/dodear/dodear/421
+#EXTINF:-1, group-title="SCIENCE",OSN DISCOVERY
+http://tv.dodear.asia:80/dodear/dodear/422
+#EXTINF:-1, group-title="SCIENCE",OSN PLANET EARTH
+http://tv.dodear.asia:80/dodear/dodear/423
+#EXTINF:-1, group-title="MOVIES",OSN STAR MOVIES HD
+http://tv.dodear.asia:80/dodear/dodear/424
+#EXTINF:-1, group-title="MOVIES",OSN STARWORLD
+http://tv.dodear.asia:80/dodear/dodear/425
+#EXTINF:-1, group-title="MOVIES",MBC MASR 2
+http://tv.dodear.asia:80/dodear/dodear/440
+#EXTINF:-1, group-title="MOVIES",MBS DRAMA
+http://tv.dodear.asia:80/dodear/dodear/463
 #EXTINF:-1, group-title="KIDS",CARTOON NETWORK
 http://tv.dodear.asia:80/dodear/dodear/5
 #EXTINF:-1, group-title="KIDS",KIDS ZONE
