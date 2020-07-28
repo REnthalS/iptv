@@ -144,3 +144,5 @@ http://magco.rip:8000/41006572950335/41251710437856/65446
 http://magco.rip:8000/41006572950335/41251710437856/65447
 #EXTINF:-1 tvg-id="92News.pk" tvg-name="92 News HD [PK]" tvg-logo="http://www.topstb.info/logo/PAKISTAN/92NEWShd.png" group-title="|AS| PAKISTAN",92 News HD [PK]
 http://magco.rip:8000/41006572950335/41251710437856/65448
+#EXTINF:-1 tvg-id="ZeeCinema.uk" tvg-name="USA: Zee Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="|AS| INDIAN",USA: Zee Cinema
+http://magco.rip:8000/41006572950335/41251710437856/75317
