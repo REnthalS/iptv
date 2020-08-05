@@ -225,17 +225,6 @@ http://starshare.live:8080/live/866h6r6/8hh7fg74/165.ts
 http://starshare.live:8080/live/866h6r6/8hh7fg74/166.ts
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="IN: STAR PLUS (4K)" tvg-logo="https://www.logolynx.com/images/logolynx/a6/a64b7f99b445162f89741443039ea799.jpeg" group-title="VIP INDIAN FHD",IN: STAR PLUS (4K)
 http://starshare.live:8080/live/866h6r6/8hh7fg74/167.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: MAA TV HD" tvg-logo="" group-title="SOUTH INDIAN",IN: MAA TV HD
-http://starshare.live:8080/live/866h6r6/8hh7fg74/168.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: Kaumudy_TV" tvg-logo="" group-title="SOUTH INDIAN",IN: Kaumudy_TV
-http://starshare.live:8080/live/866h6r6/8hh7fg74/169.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: TV 5 News" tvg-logo="" group-title="SOUTH INDIAN",IN: TV 5 News
-http://starshare.live:8080/live/866h6r6/8hh7fg74/170.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: PTC PUNJABI" tvg-logo="" group-title="PUNJABI",IN: PTC PUNJABI
-http://starshare.live:8080/live/866h6r6/8hh7fg74/171.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN:  Jaihind_tv" tvg-logo="" group-title="SOUTH INDIAN",IN:  Jaihind_tv
-http://starshare.live:8080/live/866h6r6/8hh7fg74/172.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: REPORTER News" tvg-logo="" group-title="SOUTH INDIAN",IN: REPORTER News
 http://starshare.live:8080/live/866h6r6/8hh7fg74/173.ts
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN:  Sony BBC Earth HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" group-title="VIP INDIAN FHD",IN:  Sony BBC Earth HD
 http://starshare.live:8080/live/866h6r6/8hh7fg74/174.ts
@@ -335,14 +324,6 @@ http://starshare.live:8080/live/866h6r6/8hh7fg74/222.ts
 http://starshare.live:8080/live/866h6r6/8hh7fg74/223.ts
 #EXTINF:-1 tvg-id="sonyhd.in" tvg-name="IN: SONY TV HD" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="VIP INDIAN FHD",IN: SONY TV HD
 http://starshare.live:8080/live/866h6r6/8hh7fg74/224.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE TAMIL" tvg-logo="" group-title="SOUTH INDIAN",IN: ZEE TAMIL
-http://starshare.live:8080/live/866h6r6/8hh7fg74/225.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN:  Mazavali_Manorama_HD" tvg-logo="" group-title="SOUTH INDIAN",IN:  Mazavali_Manorama_HD
-http://starshare.live:8080/live/866h6r6/8hh7fg74/226.ts
-#EXTINF:-1 tvg-id="" tvg-name="PB :  Pitaara" tvg-logo="" group-title="PUNJABI",PB :  Pitaara
-http://starshare.live:8080/live/866h6r6/8hh7fg74/227.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN:  V6_News" tvg-logo="" group-title="SOUTH INDIAN",IN:  V6_News
-http://starshare.live:8080/live/866h6r6/8hh7fg74/228.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN:  Jio_Cricket HD" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8PDRANDQ8ODQ0PDxIQGBAQDRAVERARFRcXFxURGRMaHSggGBolGxcVIjIhJSsrLi4uFx8zODMtNygtLjABCgoKDg0OGxAQGzUiICYtLTUwNTcvMDA1NSsvLy01LS8tLSstLS0vKy0tLS0yLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAKcBLgMBEQACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABgcDBAUCAQj/xABLEAACAQMBBAUHBQwHCQAAAAAAAQIDBBEFBhIhMQcTQVFhInGBkZKhsTI1QlJUFBUXIzM0U3JzdNHhFkOTsrPB8CRjZGWClKLC4v/EABoBAQACAwEAAAAAAAAAAAAAAAAEBQIDBgH/xAAwEQEAAgIBBAADBgYDAQAAAAAAAQIDBBEFEiExMkFhEyJRcYGxFDNSkdHwNUJyBv/aAAwDAQACEQMRAD8AvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+gfAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOXqu0Fra8K1WKn9SOZT9lcjXfLWvtL19LPn+CqOXHSJSz+KoVJLvk4rPvNE7UfKFpToGSY+/aIYodIiz5VtLHhJZ+J5G3H4M56BPHi7sabtrZ1moyk6En2VVhe1y95trsUt9EHP0jZxRzx3R9EihNSScWpJrKaeU/Sb48qyYmJ4l6DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgW1m2LTlbWb5cJVl71H+JDzZ+Pu1dF03pPMRkzR4+Uf5QWcm25Sbbfa3xZDny6StYrHEenwPQPeQPHb2e2lrWcksupQ7abfJd8X2M3Y800n6K7d6bj2Y5jxb8Vp6bfU7ilGtSlvQl60+1PxLCtotHMOOzYb4bzS8eYbRk1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARTbzW3b0eopPFasua5xhyb8/Mj7GTtjiFv0jTjPl77R92P3+Ssivdg+wg5PEU5PuSbEeXlrRWOZnhtaZp1S5rxt6axUeX5WUopc2/WjOtJtPENOxs48GKclvTf1/ZmvZRjUqShUpye7vRTWG+SaM8mGccIul1PHtW7axxLimlYgEk2I1p21yqU3+IrPDy+EZ9kv8AXgb9fJ224VHV9OM2KclfcfstRFi48A17y+o0VvVqkKa75SSAw2esW1Z4o16VR90ZIDdnJJNtpJccvkgNH79Wv2il7aA90tVtpPdjXpSb7FNAbiYGlLVrZScHXpKSeMb6yn3AboGpe6lQoLNarTp/rSQCy1S3r/ka1Op+rJAZri4hTjv1JxhHlmTwgPFrfUarapVIVGue7JPAHq5uqdKO9VnGnFvGZPHEDHQ1KhUzuVac91bzxJcF3gav9IrL7TR9sB/SKy+00fbA2Keq28qbrRrU3STw57ywn3AePv1a/aKXtoB9+rX7RS9tAZ7W+o1W1SqQqNc92SeANgAAAAAAAD5OWE33AU/tXeuve1ZN5UHuLwS/nkrc9uby7XpWGMetX6+XINKyT3owpR3bmeFvb0FnHHHlcCbq8cS5n/6C099I+XDztN11PWKErKMevnR5PhGa3nne93EZeYyx2mj9nfRvGafET/vDS23r38oU43dOlTo72V1Um8zXe2Y7E34+8kdIx6sWtOKZmfr+Di6Ts9dXcd+jT/F/Xk8Rfm7zRTDa8eFjs9Qwa89t58/g3L3Y69pQc9yNSK4vclmXq7TOde9Y5aMXWNbJbt54R9Np55NP1NGj0tPEwujZ+766zo1eblTjn9ZLD96LWk81iXAbeL7LNav1c3braRadZurHDr1H1dNNcN9rOX4JJv0GaOpS3tb/AFe4ljrLqrzblJ7lNfCKAy6xspqGnJV6tN04p/laU21F9mZLkBOdkdo7m80m+pXSnU6mhPdruPy00/Jcu1r+AFZaBo8ry4p2tLcjOonhySxwWQO/r/R/eWFB3U+rlTg1vOm8Shl4T9ePWBMOiHaOtW62xrzlV6uCqQlJ5ko8nFt8WuXrArXVYL75XHBfn1bs/wB7IC5+kjauWn26hQa+6q+YxbWdyPbPzoCo9M0W/wBVqTnTU7iSflVas3upvs3ny8wH3VNCv9KnGrUjO3efJq0pvdz3by+AEl1vXa99s7vXUXv07mEOsccRqrKxLuz2egDL0KOMbm8k8RSoRbfJJKXFgcTpG2neoXW5B5tKDaguycuTqePh52BMdjtlFZ6XcXVaGLqvQl2cYUmk1H0vi/QBV+h6RO8rwtqKgqk08b3BcAJX+CrUP+H9tAd1bAXkdGq2S6mVedxCqo72I7sW88e/iBDdc2FvLKg7i5hRVJSUfJqJvL5cPQBo7PbNV9QnOnaxpuVOKk1OSjwecY9TAtHoy2QutOrV6l1GnGNSnGK3JqWWnniBYQAAAAAAAGvqE8UpPwApS7lmrUffUm//ACZVX+KXf6n8inH4R+zFkwSVgdF/5O5/Xh/7E3V9S5br/wDMp+Tdvvn63/dJ/wB8zt/Ohoxf8bf/ANQ9beW3W0rei3hVLmEM9ybQ2I5iI+rDpGScd73j5VlubS6otPtFKlBN8KcI/Rj/ACSM8t/s6eGrR1p3M/Fp+suXsZtRVu6s6Fwo76hvqUVwwmk016Ua8GabzMSl9U6ZTWrF8frnhHOkCyjSvt6CSVamptL62Wm/UkaNisRda9FzWvrcW+U/4THYCWdPprulP+8yVg+CFD1bj+Lvwg3TZKXX2qfyNyTXnNytSboip01pUZQxvyqS32ueVyz7wJjc04ShKNVRdNripY3WvHIHN16nCGmXEaSjGmrae6opbu7uvGMdgH592f1aVlc0runGM5008KTwnlYAkO0PSDd31vK1lTp06dTG9uZbkk00uXDikBKeh7Z+rSdW+rQlSU49VCM4tSlHnKWH2cuPgwK41X5yuP36t/iyAk/TBKT1TEvkqjHd9KWfeBZnR3Tpx0i06vHlUYylh/1jXlZ8cgdu+o0qlNxrxpyp5TaqJbuezmBDOmCKWkpRSSVamklySyBUenarUt6NzSpPH3VTVKTXNQzmS9KyvSBIejDQad5fKdaUOrt11nVuS3qkvo+TzaT4+hAXNtAv9irpfoZfAD846beVqFSNW3lKFWK4SiuKA7X9MNW+03HqkBdex13Vraba1rhuVWdGMpNxw22ueAOJ0u/NMv20PhICJdCf53dfsqfxmBcIAAB9A+AAAADW1GOaM14AUtewxVqLunL4sq81e28u56ZljJrVn8PH9lgbM6dY3em0qUownKPGS4Kcan0n388kvFSlqcKHfz7Ovt2tE8ftwkOn6fb2VJxpqNKnnebk1xfe2bq1rSPCszZ82zfm/mUPttYp3GvRqxlilGnKjGT4KTTTz68+oixki2ble31L4emzWY8zPMul0i3fV0aDhJdbGvGaWfqtM2bM8RCJ0XF35LRPqazH93SVS11W03c5jJJ7ucVKcl4d6faZ80y1RJrn0M/Me4/tLzpGhWunKdXfw5LDqVJLhHnhf67D2mOuPy92d3PuTFZj9IV9tbqyu7uVWGerhFU455tJtuWPO/cQc2Tvt4dP0zVnWwcX9z5lYexlBwsaSfat718Sfir21iHJ72X7TPa31aHSLszLULP8Tj7oovrIZ+nhPNPPZlN+nBsRFR7P7R3mk1pxgsPOJ0KmUsrt8H4gb+0nSFeXtLqGoUKUuahJuU/DPDgBJdi7C+p6ReVbmpONtO3n1dGfNcHmfgn/AJAQ3o6oQqapbU6kY1IS3sxksp+S+wDc6QdmJaddKpSTVtVlvQkv6ua47j/y8zAsbo22sjfW/UVXu3VBJPLX4yHZNfBrzAU7qvzlcfv1b/FkBbfSlsrUvKMbm2SlXoJ5h21Kfal4/wAAK32Y2xu9M3qUEp02+NGplbkvDuA97TbbXeoqNGSVKmpZ6uk23OXZl9v8wOtq1je0dnc305vfuKbp0pvMqcMrm/HngDgbHbOT1K66mMtynCO/Of1Y+btbAx3trd6Rf4y6delLMZrO7Ujyyu9Pt84Fs6VtXS1LS7hryLinRkp035vlrvTAp/ZnV/uK6p3XV9duJ+Q5buc47cMCdfhb/wCXQ/7j/wCAJVsLtr9851af3OrfqoqXCrvJ54Y5LAGPpc+aZftofCQES6E/zu6/ZU/jMC4QAAAAAAAAHmpHMWu9AVHtdZOjdSePJk/fki7OPmO6F70TbjHf7K3qfX5uPSqyg8wnOD74ya+BCiZj06i1K28Wjl7q3VWaxOrUmu6VSTXqHdP4sa4cdfNaxH6QxLhyymu1PDR42e/b1OpKXGcpTffKTfxPZmZ9sa0rX4Y4KVSUHmEpQffGTXwETMent6VvHFo5e6tzUnwqVKk13SnJr1CbTPzY1xY6fDWI/Rm0q0davCmuWePmNmHH3WQup7ca+GePin0uaxo7lKMe5Is3EM4HJ1fZqyvONxQhOX1lwl60Bp6bsTp1vPfp20XNcnNuWPRyA7txbQqU5UppOnOLg48vJaxgDg6TsRp9pWhcUKTjVhnDc28ZWAOtq+lULyi6FzBVKbaeO1Ncmn2AcrSNirC0rRuLelKFWKaT332+HaBhrbAabOrKvKi3UnUdRvfeHKT3m/WwJQBw9W2SsLt71e3g5/Wj5L9wHzSdkNPtZb9G3gp/WlmTXrA3ta0ehe0eouYb9PKljOOK5Aamg7L2dhKc7Wm4SqJRbcm8pcUgMuu7O2l8oq6pKe48pp4kvDPcBpaZsTp9tKU6NJxc4Om81JYcXzWPQBp/g30r9BL+0YD8G+lfoJf2jA3tmdD0+0nVdikpvEZ+W3juRrpkpfmKz6Z3xXpxNo45beq29pe06lrXcakYNSlFSacWuT+IjLSZmIn09nFeIiZjxPpytAsNJsZzlaShCdRKLbm3lLOF72a/4vD/AFNv8Hn/AKZSmE00mmmn2o3xMT6R5iY8S+nrwAAAAAAAAjm1+iK5pNpeUkPHp7E8TzCqqsJU5unUWJLv7SBmwTWeY9Ot6b1SuaPs8k8W/cIy5AAAPRLLSXFvhgzpSb+kXZ2sevXuvP6LE2J0Hq49dUXlP3FljxxSOIcXt7d9nJN7f7CaGaKAAAAAAAAAAAAAAAAAAABAtBvq1Gvd9TbyuN6qs7v0eZz+rnyY737Kd3l0m7gx5MePvv2+GXZ6bnc6jOcHTlKmm4PnHyXwMtW02y5bTHE8MN2sVw4YrPMc+/1e9kdGt69k5VqUZy35Le45S4Y4mXT9XFlwTNo5l51TczYdjiluIbmw1SSVxQbcoUa0oxb7F3G7pczEWp8olH6vWJmmT1Mx5SktlOAAAAAAAAGgIvtLsrTuU5RSUwQry/0K5t3hxc4rwfxNF9etlrrdXz4fE/ehznOS+VCafmI86tvktqdewT8UTAqjfKE3/wBLEat2c9c149RLdstMuKzShTkl3tG2urH/AGQc/XbzHGKvH5p1s1sgqTVSst6XiSa1iscQosuW+WebzzKZwgorC4JHrB6AAAAAAAAAAAAAAAAAAAABxNA0idtUuJzlGarTUko54c+eSFq604ZtMz7Tt3crsVpERx2wx2eiVKdxd1nODVzHCSzmPBrj6zGmrauS9+fiZ5d2t8WLHxx2ufZbPahRp9TSu6UKbbbShLPHnh4I+PR2MVOyt44Ss3UNTLfvvjnn84d3QtIhaUeri3KTe9KT5yl3k7V1owU7Y/VXbe1bZv3T+jpElFAAAAAAAAAADFWtoTWJRT9AHOrbP28ucF7KA+U9nLaLyoR9lAb9Cypw+TFL0AbAAAAAAAAAAAAAAAAAAAAAAABgBgBgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/Z" group-title="CRICKET",IN:  Jio_Cricket HD
 http://starshare.live:8080/live/866h6r6/8hh7fg74/229.ts
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN:  Zee Cinema HD" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-cinemaHD.jpg" group-title="VIP INDIAN FHD",IN:  Zee Cinema HD
@@ -583,8 +564,6 @@ http://starshare.live:8080/live/866h6r6/8hh7fg74/976.ts
 http://starshare.live:8080/live/866h6r6/8hh7fg74/978.ts
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="IN:  Star_Movies_HD" tvg-logo="https://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" group-title="VIP INDIAN FHD",IN:  Star_Movies_HD
 http://starshare.live:8080/live/866h6r6/8hh7fg74/979.ts
-#EXTINF:-1 tvg-id="" tvg-name="Jindua 2017" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWE5ZTA1MGYtMGRjNy00NWYxLWFmNTEtNTQ5MDFjYWQ2MzY2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjI4NjcyNjU@._V1_SY1000_CR0,0,692,1000_AL_.jpg" group-title="PUNJABI MOVIES",Jindua 2017
-http://starshare.live:8080/movie/866h6r6/8hh7fg74/981.mkv
 #EXTINF:-1 tvg-id="" tvg-name="DSTV : M_urban" tvg-logo="" group-title="DSTV",DSTV : M_urban
 http://starshare.live:8080/live/866h6r6/8hh7fg74/992.ts
 #EXTINF:-1 tvg-id="" tvg-name="DSTV : Nicktoons" tvg-logo="" group-title="KIDS",DSTV : Nicktoons
@@ -979,42 +958,6 @@ http://starshare.live:8080/live/866h6r6/8hh7fg74/1602.ts
 http://starshare.live:8080/live/866h6r6/8hh7fg74/1603.ts
 #EXTINF:-1 tvg-id="" tvg-name="|CA-FR| TVA SPORTS" tvg-logo="" group-title="CANADA",|CA-FR| TVA SPORTS
 http://starshare.live:8080/live/866h6r6/8hh7fg74/1604.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Telugu HD" tvg-logo="" group-title="SOUTH INDIAN",IN: Zee Telugu HD
-http://starshare.live:8080/live/866h6r6/8hh7fg74/1605.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN : Sun Life (TM)" tvg-logo="" group-title="SOUTH INDIAN",IN : Sun Life (TM)
-http://starshare.live:8080/live/866h6r6/8hh7fg74/1612.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN : Sun News" tvg-logo="" group-title="SOUTH INDIAN",IN : Sun News
-http://starshare.live:8080/live/866h6r6/8hh7fg74/1613.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN : Vijay Super" tvg-logo="" group-title="SOUTH INDIAN",IN : Vijay Super
-http://starshare.live:8080/live/866h6r6/8hh7fg74/1614.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN : Jaya Plus" tvg-logo="" group-title="SOUTH INDIAN",IN : Jaya Plus
-http://starshare.live:8080/live/866h6r6/8hh7fg74/1615.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN : Raj Digital Plus" tvg-logo="" group-title="SOUTH INDIAN",IN : Raj Digital Plus
-http://starshare.live:8080/live/866h6r6/8hh7fg74/1616.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN : Polimer TV" tvg-logo="" group-title="SOUTH INDIAN",IN : Polimer TV
-http://starshare.live:8080/live/866h6r6/8hh7fg74/1617.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN : JAYA Movies" tvg-logo="" group-title="SOUTH INDIAN",IN : JAYA Movies
-http://starshare.live:8080/live/866h6r6/8hh7fg74/1618.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN : Raj TV" tvg-logo="" group-title="SOUTH INDIAN",IN : Raj TV
-http://starshare.live:8080/live/866h6r6/8hh7fg74/1619.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN : DD PODHIGAI" tvg-logo="" group-title="SOUTH INDIAN",IN : DD PODHIGAI
-http://starshare.live:8080/live/866h6r6/8hh7fg74/1620.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN : Travel XP Tamil" tvg-logo="" group-title="SOUTH INDIAN",IN : Travel XP Tamil
-http://starshare.live:8080/live/866h6r6/8hh7fg74/1623.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN :  Vendhar TV TAMIL" tvg-logo="" group-title="SOUTH INDIAN",IN :  Vendhar TV TAMIL
-http://starshare.live:8080/live/866h6r6/8hh7fg74/1624.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN :  MK News TAMIL" tvg-logo="" group-title="SOUTH INDIAN",IN :  MK News TAMIL
-http://starshare.live:8080/live/866h6r6/8hh7fg74/1626.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN :  Captain tv TAMIL" tvg-logo="" group-title="SOUTH INDIAN",IN :  Captain tv TAMIL
-http://starshare.live:8080/live/866h6r6/8hh7fg74/1627.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN : Ayush TV TAMIL" tvg-logo="" group-title="SOUTH INDIAN",IN : Ayush TV TAMIL
-http://starshare.live:8080/live/866h6r6/8hh7fg74/1628.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN : Captain News HD (TM)" tvg-logo="" group-title="SOUTH INDIAN",IN : Captain News HD (TM)
-http://starshare.live:8080/live/866h6r6/8hh7fg74/1630.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN : IBC Comedy (TM)" tvg-logo="" group-title="SOUTH INDIAN",IN : IBC Comedy (TM)
-http://starshare.live:8080/live/866h6r6/8hh7fg74/1633.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN : VIJAY TV HD (TM)" tvg-logo="" group-title="SOUTH INDIAN",IN : VIJAY TV HD (TM)
-http://starshare.live:8080/live/866h6r6/8hh7fg74/1634.ts
 #EXTINF:-1 tvg-id="" tvg-name="PK: Hadi TV" tvg-logo="" group-title="PAKISTAN",PK: Hadi TV
 http://starshare.live:8080/live/866h6r6/8hh7fg74/1845.ts
 #EXTINF:-1 tvg-id="" tvg-name="PK: Paigam Pushto" tvg-logo="" group-title="PAKISTAN",PK: Paigam Pushto
@@ -1109,8 +1052,6 @@ http://starshare.live:8080/live/866h6r6/8hh7fg74/2439.ts
 http://starshare.live:8080/live/866h6r6/8hh7fg74/2440.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK : Sony Max UK" tvg-logo="" group-title="UK INDIAN",UK : Sony Max UK
 http://starshare.live:8080/live/866h6r6/8hh7fg74/2441.ts
-#EXTINF:-1 tvg-id="" tvg-name="PB: KTV UK" tvg-logo="" group-title="PUNJABI",PB: KTV UK
-http://starshare.live:8080/live/866h6r6/8hh7fg74/2446.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro Cricket HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png" group-title="CRICKET",Astro Cricket HD
 http://starshare.live:8080/live/866h6r6/8hh7fg74/2494.ts
 #EXTINF:-1 tvg-id="" tvg-name="PK: Madina Live" tvg-logo="" group-title="PAKISTAN",PK: Madina Live
@@ -1680,3 +1621,9 @@ http://starshare.live:8080/live/866h6r6/8hh7fg74/7344.ts
 http://starshare.live:8080/live/866h6r6/8hh7fg74/950.ts
 #EXTINF:-1 tvg-id="" tvg-name="US: Cartoon Network" tvg-logo="" group-title="KIDS",US: Cartoon Network
 http://starshare.live:8080/live/866h6r6/8hh7fg74/951.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CNN HD" tvg-logo="" group-title="USA",USA: CNN HD
+http://starshare.live:8080/live/866h6r6/8hh7fg74/710.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: WWE NETWORK" tvg-logo="" group-title="USA",USA: WWE NETWORK
+http://starshare.live:8080/live/866h6r6/8hh7fg74/711.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Tennis Channel" tvg-logo="" group-title="USA",USA: Tennis Channel
+http://starshare.live:8080/live/866h6r6/8hh7fg74/712.ts
